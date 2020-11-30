@@ -1,5 +1,5 @@
 <deployment-project plugin="plugin.ezdeploy" plugin-version="1.0">
-  <configuration file="/media/teamlary/teamlary1/gitHubRepos/utdNodesLive/firmware/liveRunDaily.prj" location="/media/teamlary/teamlary1/gitHubRepos/utdNodesLive/firmware" name="liveRunDaily" target="target.ezdeploy.standalone" target-name="Application Compiler">
+  <configuration build-checksum="3038403446" file="/media/teamlary/teamlary1/gitHubRepos/utdNodesLive/firmware/liveRunDaily.prj" location="/media/teamlary/teamlary1/gitHubRepos/utdNodesLive/firmware" name="liveRunDaily" preferred-package-location="/media/teamlary/teamlary1/gitHubRepos/utdNodesLive/firmware/liveRunDaily/for_redistribution" preferred-package-type="package.type.install" target="target.ezdeploy.standalone" target-name="Application Compiler">
     <param.appname>liveRunDaily</param.appname>
     <param.icon />
     <param.icons />

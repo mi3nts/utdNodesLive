@@ -16,7 +16,7 @@ function [] = liveRunDaily(nodeIndex,yamlFile)
 
     rawFolder          =  dataFolder + "/raw";
     rawMatsFolder      =  dataFolder + "/rawMats";
-    updateFolder       =  dataFolder + "/liveUpdate/UTDNodes";
+    updateFolder       =  dataFolder + "/liveUpdate/results/";
     modelsFolder       =  dataFolder + "/modelsMats/UTDNodes/";
 
     timeSpan           =  seconds(mintsDefinitions.timeSpan);

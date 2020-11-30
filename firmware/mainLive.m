@@ -9,20 +9,28 @@ addpath("../functions/");
 addpath("YAMLMatlab_0.4.3");
     currentDate= datetime('now','timezone','utc');
     display(currentDate);
+    
+daysBack = daysact(datetime(2018,1,1),today)    
+% 
 for n = 1:15
-    try
+%     try
         liveRunDaily(string(n),...
             '/media/teamlary/teamlary1/gitHubRepos/utdNodesLive/firmware/mintsDefinitions.yaml'...
             );
-    catch e
-        display(e)     
-    end    
-end       
-    currentDate= datetime('now','timezone','utc');
-    display(currentDate);  
+%     catch e
+%         display(e)     
+%     end    
+end
+
+% 
+% currentDate= datetime('now','timezone','utc');
+% display(currentDate);  
 %  readYamlFile('/media/teamlary/teamlary1/gitHubRepos/utdNodesLive/firmware/mintsDefinitions.yaml')
  
-
+%      liveRunPeriodic(string(1),...
+%             '/media/teamlary/teamlary1/gitHubRepos/utdNodesLive/firmware/mintsDefinitions.yaml',...
+%                 string(1)...
+%             );
 
 
 %% 2 No Node Data - Not active 
