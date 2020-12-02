@@ -176,7 +176,7 @@ function [] = liveRunDynamic(nodeIndex,yamlFile)
     predictedTable.altitude(isnan(predictedTable.altitude))=nodeIDs{nodeIndex}.altitude;
     predictedTable.latitudeCoordinate(isnan(predictedTable.latitudeCoordinate))=nodeIDs{nodeIndex}.latitude;
     predictedTable.longitudeCoordinate(isnan(predictedTable.longitudeCoordinate))=nodeIDs{nodeIndex}.longitude;
-    save(lengthFile,'nextLength'); 
+  
     
     %% 
     display(newline)
@@ -250,14 +250,8 @@ function [] = liveRunDynamic(nodeIndex,yamlFile)
         varNames{n} =   strrep(varNames{n},'altitude','Altitude');      
     end
     
-    predictedTable.Properties.VariableNames = varNames;
-
-    
-    
-    
-    
-    
-    
+    predictedTable.Properties.VariableNames = varNames;  
+    predictedTable.dateTime.Format =  'uuuu-MM-dd HH:mm:ss.SSS';
     
     if csvAvailable
         writetimetable(predictedTable,printName,'WriteMode','append','WriteVariableNames',false)
@@ -266,7 +260,7 @@ function [] = liveRunDynamic(nodeIndex,yamlFile)
     end
      
     
-    
+    save(lengthFile,'nextLength'); 
     
     
     printCSVT(bestModelsLabels,updateFolder,nodeID,currentDate,'modelInfo');
