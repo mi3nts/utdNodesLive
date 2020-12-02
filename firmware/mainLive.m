@@ -4,7 +4,7 @@ clear all
 close all 
 
 % % 
-addpath("../functions/");
+addpath("functions/");
 
 addpath("YAMLMatlab_0.4.3");
     currentDate= datetime('now','timezone','utc');
@@ -12,15 +12,15 @@ addpath("YAMLMatlab_0.4.3");
     
 daysBack = daysact(datetime(2018,1,1),today)    
 % 
-for n = 1:15
+% for n = 1:15
 %     try
-        liveRunDaily(string(n),...
+        liveRunDynamic(string(13),...
             '/media/teamlary/teamlary1/gitHubRepos/utdNodesLive/firmware/mintsDefinitions.yaml'...
             );
 %     catch e
 %         display(e)     
 %     end    
-end
+% end
 
 % 
 % currentDate= datetime('now','timezone','utc');

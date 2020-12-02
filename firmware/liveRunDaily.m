@@ -5,7 +5,7 @@ function [] = liveRunDaily(nodeIndex,yamlFile)
     display("---------------------MINTS---------------------")
     
     nodeIndex = round(str2double(nodeIndex));
-    currentDate= datetime('now','timezone','utc');
+    currentDate= datetime('now','timezone','utc') ;
     display(currentDate);
     
     mintsDefinitions   = ReadYaml(yamlFile);
@@ -78,9 +78,9 @@ function [] = liveRunDaily(nodeIndex,yamlFile)
                                         
                                         
     
-
+    toc
     %% Choosing Input Stack
-
+    tic
     eval(strcat("mintsInputs      = mintsDefinitions.mintsInputsStack",string(nodeIDs{nodeIndex}.inputStack),";"));
     eval(strcat("mintsInputLabels = mintsDefinitions.mintsInputLabelsStack",string(nodeIDs{nodeIndex}.inputStack),";"));
     eval(strcat("inputStack       = mintsDefinitions.inputStack",string(nodeIDs{nodeIndex}.inputStack),";"));

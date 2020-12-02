@@ -15,36 +15,84 @@ pValid         : 0.15
 nodeIDs:
     - nodeID: "001e06305a12"
       inputStack: 1
+      latitude: 32.9921705757576
+      longitude: -96.757853439394
+      altitude: 222.2
     - nodeID: "001e06323a12"
       inputStack: 2
+      latitude: 32.9921705757576
+      longitude: -96.757853439394
+      altitude: 222.2
     - nodeID: "001e06318cd1"
       inputStack: 2
+      latitude: 32.9921705757576
+      longitude: -96.757853439394
+      altitude: 222.2
     - nodeID: "001e06305a61"
       inputStack: 2
+      latitude: 32.9921705757576
+      longitude: -96.757853439394
+      altitude: 222.2
     - nodeID: "001e06323a05"
       inputStack: 2
+      latitude: 32.9725736515152
+      longitude: -97.0264931515152
+      altitude: 164.863636363636
     - nodeID: "001e06305a57"
       inputStack: 2
+      latitude: 32.9921705757576
+      longitude: -96.757853439394
+      altitude: 222.2
     - nodeID: "001e063059c2"
       inputStack: 2
+      latitude: 32.8147683030303
+      longitude: -96.6596651666667
+      altitude: 190.963636363636
     - nodeID: "001e06318c28"
       inputStack: 2
+      latitude: 32.9303834666667
+      longitude: -96.8466973333333
+      altitude: 180.56
     - nodeID: "001e06305a6b"
       inputStack: 2
+      latitude: 32.9921705757576
+      longitude: -96.757853439394
+      altitude: 222.2
     - nodeID: "001e063239e3"
       inputStack: 2
+      latitude: 32.7591461666667
+      longitude: -97.3423250606061
+      altitude: 167.054545454545 
     - nodeID: "001e06305a6c"
       inputStack: 2
+      latitude: 32.7153603666667
+      longitude: -96.7479668666667
+      altitude: 124.64
     - nodeID: "001e063239e6"
       inputStack: 3
+      latitude: 32.9921705757576
+      longitude: -96.757853439394
+      altitude: 222.2 
     - nodeID: "001e06305a0a"
       inputStack: 3
+      latitude: 32.9921705757576
+      longitude: -96.757853439394
+      altitude: 222.2 
     - nodeID: "001e06318cee"
       inputStack: 3
+      latitude: 32.9921705757576
+      longitude: -96.757853439394
+      altitude: 222.2 
     - nodeID: "001e06318cf1"
       inputStack: 3
+      latitude: 32.9921705757576
+      longitude: -96.757853439394
+      altitude: 222.2 
     - nodeID: "001e063059c1"
       inputStack: 3
+      latitude: 32.9921705757576
+      longitude: -96.757853439394
+      altitude: 222.2 
 
 inputStack1:
     - "AS7262" 

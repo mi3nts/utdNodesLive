@@ -23,6 +23,7 @@ function [] = liveRunPeriodic(nodeIndex,yamlFile,daysBack)
     nodeID             =  nodeIDs{nodeIndex}.nodeID;
     display(nodeID);
     
+    
         
                         
                             
@@ -78,9 +79,6 @@ function [] = liveRunPeriodic(nodeIndex,yamlFile,daysBack)
 
         end    
 
-
-
-
         [BME280,GPSGPGGA2,MGS001,OPCN2,OPCN3,PPD42NSDuo,SCD30]...
                                 = pmInputDataFor(BME280Files,GPSGPGGA2Files,...
                                         MGS001Files,OPCN2Files,OPCN3Files,PPD42NSDuoFiles,SCD30Files,...
@@ -125,11 +123,13 @@ function [] = liveRunPeriodic(nodeIndex,yamlFile,daysBack)
            latestDataAll.humidity_mintsDataSCD30 = latestDataAll.humidity_SCD30 ;
         end 
 
+        
+        
         In  =  table2array(latestDataAll(:,mintsInputs));
-
-
-
-
+        
+        
+        
+        
         display(newline)
         display("Gaining Super Learner Predictions")
         for n = 1: length(bestModels)
