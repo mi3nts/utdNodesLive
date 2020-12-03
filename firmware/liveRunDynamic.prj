@@ -1,5 +1,5 @@
 <deployment-project plugin="plugin.ezdeploy" plugin-version="1.0">
-  <configuration file="/media/teamlary/teamlary1/gitHubRepos/utdNodesLive/firmware/liveRunDynamic.prj" location="/media/teamlary/teamlary1/gitHubRepos/utdNodesLive/firmware" name="liveRunDynamic" target="target.ezdeploy.standalone" target-name="Application Compiler">
+  <configuration build-checksum="2199108634" file="/media/teamlary/teamlary1/gitHubRepos/utdNodesLive/firmware/liveRunDynamic.prj" location="/media/teamlary/teamlary1/gitHubRepos/utdNodesLive/firmware" name="liveRunDynamic" preferred-package-location="/media/teamlary/teamlary1/gitHubRepos/utdNodesLive/firmware/liveRunDynamic/for_redistribution" preferred-package-type="package.type.install" target="target.ezdeploy.standalone" target-name="Application Compiler">
     <param.appname>liveRunDynamic</param.appname>
     <param.icon />
     <param.icons />
@@ -99,7 +99,10 @@ ${LD_LIBRARY_PATH}:MR/v99/runtime/glnxa64:MR/v99/bin/glnxa64:MR/v99/sys/os/glnxa
       <file>${PROJECT_ROOT}/functions</file>
     </fileset.resources>
     <fileset.package />
-    <fileset.depfun />
+    <fileset.depfun>
+      <file>${PROJECT_ROOT}/dataInput.m</file>
+      <file>${PROJECT_ROOT}/getPrintName.m</file>
+    </fileset.depfun>
     <build-deliverables>
       <file location="${PROJECT_ROOT}/liveRunDynamic/for_testing" name="readme.txt" optional="true">/media/teamlary/teamlary1/gitHubRepos/utdNodesLive/firmware/liveRunDynamic/for_testing/readme.txt</file>
       <file location="${PROJECT_ROOT}/liveRunDynamic/for_testing" name="splash.png" optional="false">/media/teamlary/teamlary1/gitHubRepos/utdNodesLive/firmware/liveRunDynamic/for_testing/splash.png</file>
