@@ -76,7 +76,7 @@ function  valid = contourPlotOPCN2(calibrated,nodeID,xLabel,yLabel,titleIn,given
                                                              num2str(day(givenDate),'%02d')...
                                                              );  
 
-            mkdir(fileparts(outFigNamePre));
+            folderCheck(fileparts(outFigNamePre));
             Fig_name = strcat(outFigNamePre,'.png');
             saveas(figure_1,char(Fig_name));
 

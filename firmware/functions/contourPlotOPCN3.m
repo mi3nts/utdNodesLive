@@ -84,7 +84,7 @@ function  valid = drawContourPlot(calibrated,nodeID,xLabel,yLabel,titleIn,givenD
                                                              num2str(day(givenDate),'%02d')...
                                                              );  
 
-            mkdir(fileparts(outFigNamePre));
+            folderCheck(fileparts(outFigNamePre));
             Fig_name = strcat(outFigNamePre,'.png');
             saveas(figure_1,char(Fig_name));
 % 
