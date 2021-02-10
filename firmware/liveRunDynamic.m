@@ -42,6 +42,8 @@ function [] = liveRunDynamic(nodeIndex,yamlFile)
     display("Raw DotMat Data Located  @ :"+ rawMatsFolder);
     display("Update Data Located      @ :"+ updateFolder);
 
+
+    diplay("Results File Located       @ :" + resultsFile);
     display(newline)
     
     %AS7262Files      =  dir(strcat(currentFolder,'/*AS7262*.csv'))
@@ -55,7 +57,6 @@ function [] = liveRunDynamic(nodeIndex,yamlFile)
     SCD30Files       =  dir(strcat(todaysNodeFolder,'/*SCD30*.csv'));
     % TSL2591Files     =  dir(strcat(currentFolder,'/*TSL2591*.csv'))
     % VEML6075Files    =  dir(strcat(currentFolder,'/*VEML6075*.csv'))
-
     if isempty(BME280Files)||(isempty(OPCN2Files)&&isempty(OPCN3Files))
 
         display("No Data for Node:" +  nodeID)

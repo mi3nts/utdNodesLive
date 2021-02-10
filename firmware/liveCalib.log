@@ -1,0 +1,1373 @@
+nohup: ignoring input
+./runAll.sh: line 2: ml: command not found
+MINTS Init ;)
+
+                                                                              < M A T L A B (R) >
+                                                                    Copyright 1984-2020 The MathWorks, Inc.
+                                                                R2020b Update 1 (9.9.0.1495850) 64-bit (glnxa64)
+                                                                               September 30, 2020
+
+ 
+To get started, type doc.
+For product information, visit www.mathworks.com.
+ 
+
+
+    "---------------------MINTS---------------------"
+
+
+currentDate = 
+
+  datetime
+
+   10-Feb-2021 09:08:37
+
+
+nodeID =
+
+    '001e06305a12'
+
+
+timeFile = 
+
+    "/mfs/io/groups/lary/mintsData/liveUpdate/scan/t_001e06305a12.mat"
+
+
+timeFile = 
+
+    "/mfs/io/groups/lary/mintsData/liveUpdate/scan/t_001e06305a12.mat"
+
+
+
+    "Data Folder Located      @ :/mfs/io/groups/lary/mintsData"
+
+    "Raw Data Located         @ :/mfs/io/groups/lary/mintsData/raw"
+
+    "Raw DotMat Data Located  @ :/mfs/io/groups/lary/mintsData/rawMats"
+
+    "Update Data Located      @ :/mfs/io/groups/lary/mintsData/liveUpdate/results/"
+
+    "Results File Located     @ :/mfs/io/groups/lary/mintsData/modelsMats/UTDNodes/resultsNowXT.csv"
+
+
+
+
+
+    "Reading Raw Data"
+
+    "Reading: MINTS_001e06305a12_BME280_2021_02_10.csv"
+
+    "Reading: MINTS_001e06305a12_GPSGPGGA2_2021_02_10.csv"
+
+    "Reading: MINTS_001e06305a12_MGS001_2021_02_10.csv"
+
+    "Reading: MINTS_001e06305a12_OPCN2_2021_02_10.csv"
+
+
+
+    "Saving UTD Nodes Data"
+
+    "No new Data for Node:001e06305a12"
+
+
+
+    "---------------------MINTS---------------------"
+
+
+currentDate = 
+
+  datetime
+
+   10-Feb-2021 09:08:48
+
+
+nodeID =
+
+    '001e06323a12'
+
+
+timeFile = 
+
+    "/mfs/io/groups/lary/mintsData/liveUpdate/scan/t_001e06323a12.mat"
+
+
+timeFile = 
+
+    "/mfs/io/groups/lary/mintsData/liveUpdate/scan/t_001e06323a12.mat"
+
+
+
+    "Data Folder Located      @ :/mfs/io/groups/lary/mintsData"
+
+    "Raw Data Located         @ :/mfs/io/groups/lary/mintsData/raw"
+
+    "Raw DotMat Data Located  @ :/mfs/io/groups/lary/mintsData/rawMats"
+
+    "Update Data Located      @ :/mfs/io/groups/lary/mintsData/liveUpdate/results/"
+
+    "Results File Located     @ :/mfs/io/groups/lary/mintsData/modelsMats/UTDNodes/resultsNowXT.csv"
+
+
+
+
+
+    "Reading Raw Data"
+
+    "Reading: MINTS_001e06323a12_BME280_2021_02_10.csv"
+
+    "Reading: MINTS_001e06323a12_MGS001_2021_02_10.csv"
+
+    "Reading: MINTS_001e06323a12_OPCN2_2021_02_10.csv"
+
+    "Reading: MINTS_001e06323a12_PPD42NSDuo_2021_02_10.csv"
+
+    "Reading: MINTS_001e06323a12_SCD30_2021_02_10.csv"
+
+
+
+    "Saving UTD Nodes Data"
+
+    "No new Data for Node:001e06323a12"
+
+
+
+    "---------------------MINTS---------------------"
+
+
+currentDate = 
+
+  datetime
+
+   10-Feb-2021 09:08:56
+
+
+nodeID =
+
+    '001e06318cd1'
+
+
+timeFile = 
+
+    "/mfs/io/groups/lary/mintsData/liveUpdate/scan/t_001e06318cd1.mat"
+
+
+timeFile = 
+
+    "/mfs/io/groups/lary/mintsData/liveUpdate/scan/t_001e06318cd1.mat"
+
+
+
+    "Data Folder Located      @ :/mfs/io/groups/lary/mintsData"
+
+    "Raw Data Located         @ :/mfs/io/groups/lary/mintsData/raw"
+
+    "Raw DotMat Data Located  @ :/mfs/io/groups/lary/mintsData/rawMats"
+
+    "Update Data Located      @ :/mfs/io/groups/lary/mintsData/liveUpdate/results/"
+
+    "Results File Located     @ :/mfs/io/groups/lary/mintsData/modelsMats/UTDNodes/resultsNowXT.csv"
+
+
+
+
+
+    "Reading Raw Data"
+
+    "Reading: MINTS_001e06318cd1_BME280_2021_02_10.csv"
+
+    "Reading: MINTS_001e06318cd1_GPSGPGGA2_2021_02_10.csv"
+
+    "Reading: MINTS_001e06318cd1_MGS001_2021_02_10.csv"
+
+    "Reading: MINTS_001e06318cd1_OPCN2_2021_02_10.csv"
+
+    "Reading: MINTS_001e06318cd1_PPD42NSDuo_2021_02_10.csv"
+
+    "Reading: MINTS_001e06318cd1_SCD30_2021_02_10.csv"
+
+
+
+    "Saving UTD Nodes Data"
+
+    "No new Data for Node:001e06318cd1"
+
+
+
+    "---------------------MINTS---------------------"
+
+
+currentDate = 
+
+  datetime
+
+   10-Feb-2021 09:09:05
+
+
+nodeID =
+
+    '001e06305a61'
+
+
+timeFile = 
+
+    "/mfs/io/groups/lary/mintsData/liveUpdate/scan/t_001e06305a61.mat"
+
+
+timeFile = 
+
+    "/mfs/io/groups/lary/mintsData/liveUpdate/scan/t_001e06305a61.mat"
+
+
+
+    "Data Folder Located      @ :/mfs/io/groups/lary/mintsData"
+
+    "Raw Data Located         @ :/mfs/io/groups/lary/mintsData/raw"
+
+    "Raw DotMat Data Located  @ :/mfs/io/groups/lary/mintsData/rawMats"
+
+    "Update Data Located      @ :/mfs/io/groups/lary/mintsData/liveUpdate/results/"
+
+    "Results File Located     @ :/mfs/io/groups/lary/mintsData/modelsMats/UTDNodes/resultsNowXT.csv"
+
+
+
+
+
+    "Reading Raw Data"
+
+    "Reading: MINTS_001e06305a61_BME280_2021_02_10.csv"
+
+    "Reading: MINTS_001e06305a61_GPSGPGGA2_2021_02_10.csv"
+
+    "Reading: MINTS_001e06305a61_MGS001_2021_02_10.csv"
+
+    "Reading: MINTS_001e06305a61_OPCN2_2021_02_10.csv"
+
+    "Reading: MINTS_001e06305a61_PPD42NSDuo_2021_02_10.csv"
+
+    "Reading: MINTS_001e06305a61_SCD30_2021_02_10.csv"
+
+
+
+    "Saving UTD Nodes Data"
+
+    "No new Data for Node:001e06305a61"
+
+
+
+    "---------------------MINTS---------------------"
+
+
+currentDate = 
+
+  datetime
+
+   10-Feb-2021 09:09:14
+
+
+nodeID =
+
+    '001e06323a05'
+
+
+timeFile = 
+
+    "/mfs/io/groups/lary/mintsData/liveUpdate/scan/t_001e06323a05.mat"
+
+
+timeFile = 
+
+    "/mfs/io/groups/lary/mintsData/liveUpdate/scan/t_001e06323a05.mat"
+
+
+
+    "Data Folder Located      @ :/mfs/io/groups/lary/mintsData"
+
+    "Raw Data Located         @ :/mfs/io/groups/lary/mintsData/raw"
+
+    "Raw DotMat Data Located  @ :/mfs/io/groups/lary/mintsData/rawMats"
+
+    "Update Data Located      @ :/mfs/io/groups/lary/mintsData/liveUpdate/results/"
+
+    "Results File Located     @ :/mfs/io/groups/lary/mintsData/modelsMats/UTDNodes/resultsNowXT.csv"
+
+
+
+
+
+    "Reading Raw Data"
+
+    "Reading: MINTS_001e06323a05_BME280_2021_02_10.csv"
+
+    "Reading: MINTS_001e06323a05_GPSGPGGA2_2021_02_10.csv"
+
+    "Reading: MINTS_001e06323a05_MGS001_2021_02_10.csv"
+
+    "Reading: MINTS_001e06323a05_OPCN2_2021_02_10.csv"
+
+    "Reading: MINTS_001e06323a05_PPD42NSDuo_2021_02_10.csv"
+
+    "Reading: MINTS_001e06323a05_SCD30_2021_02_10.csv"
+
+
+
+    "Saving UTD Nodes Data"
+
+
+
+
+
+    "Loading Best Models"
+
+    "Gaining Super Learner Predictions"
+
+
+
+    "Applying Corrections"
+
+
+
+Elapsed time is 11.012782 seconds.
+
+
+    "MINTS Done"
+
+
+
+    "---------------------MINTS---------------------"
+
+
+currentDate = 
+
+  datetime
+
+   10-Feb-2021 09:09:30
+
+
+nodeID =
+
+    '001e06305a57'
+
+
+timeFile = 
+
+    "/mfs/io/groups/lary/mintsData/liveUpdate/scan/t_001e06305a57.mat"
+
+
+timeFile = 
+
+    "/mfs/io/groups/lary/mintsData/liveUpdate/scan/t_001e06305a57.mat"
+
+
+
+    "Data Folder Located      @ :/mfs/io/groups/lary/mintsData"
+
+    "Raw Data Located         @ :/mfs/io/groups/lary/mintsData/raw"
+
+    "Raw DotMat Data Located  @ :/mfs/io/groups/lary/mintsData/rawMats"
+
+    "Update Data Located      @ :/mfs/io/groups/lary/mintsData/liveUpdate/results/"
+
+    "Results File Located     @ :/mfs/io/groups/lary/mintsData/modelsMats/UTDNodes/resultsNowXT.csv"
+
+
+
+
+
+    "Reading Raw Data"
+
+    "Reading: MINTS_001e06305a57_BME280_2021_02_10.csv"
+
+    "Reading: MINTS_001e06305a57_GPSGPGGA2_2021_02_10.csv"
+
+    "Reading: MINTS_001e06305a57_MGS001_2021_02_10.csv"
+
+    "Reading: MINTS_001e06305a57_OPCN2_2021_02_10.csv"
+
+    "Reading: MINTS_001e06305a57_PPD42NSDuo_2021_02_10.csv"
+
+    "Reading: MINTS_001e06305a57_SCD30_2021_02_10.csv"
+
+
+
+    "Saving UTD Nodes Data"
+
+
+
+
+
+    "Loading Best Models"
+
+    "Gaining Super Learner Predictions"
+
+
+
+    "Applying Corrections"
+
+
+
+Elapsed time is 7.088955 seconds.
+
+
+    "MINTS Done"
+
+
+
+    "---------------------MINTS---------------------"
+
+
+currentDate = 
+
+  datetime
+
+   10-Feb-2021 09:09:42
+
+
+nodeID =
+
+    '001e063059c2'
+
+
+timeFile = 
+
+    "/mfs/io/groups/lary/mintsData/liveUpdate/scan/t_001e063059c2.mat"
+
+
+timeFile = 
+
+    "/mfs/io/groups/lary/mintsData/liveUpdate/scan/t_001e063059c2.mat"
+
+
+
+    "Data Folder Located      @ :/mfs/io/groups/lary/mintsData"
+
+    "Raw Data Located         @ :/mfs/io/groups/lary/mintsData/raw"
+
+    "Raw DotMat Data Located  @ :/mfs/io/groups/lary/mintsData/rawMats"
+
+    "Update Data Located      @ :/mfs/io/groups/lary/mintsData/liveUpdate/results/"
+
+    "Results File Located     @ :/mfs/io/groups/lary/mintsData/modelsMats/UTDNodes/resultsNowXT.csv"
+
+
+
+    "No Data for Node:001e063059c2"
+
+
+
+    "---------------------MINTS---------------------"
+
+
+currentDate = 
+
+  datetime
+
+   10-Feb-2021 09:09:48
+
+
+nodeID =
+
+    '001e06318c28'
+
+
+timeFile = 
+
+    "/mfs/io/groups/lary/mintsData/liveUpdate/scan/t_001e06318c28.mat"
+
+
+timeFile = 
+
+    "/mfs/io/groups/lary/mintsData/liveUpdate/scan/t_001e06318c28.mat"
+
+
+
+    "Data Folder Located      @ :/mfs/io/groups/lary/mintsData"
+
+    "Raw Data Located         @ :/mfs/io/groups/lary/mintsData/raw"
+
+    "Raw DotMat Data Located  @ :/mfs/io/groups/lary/mintsData/rawMats"
+
+    "Update Data Located      @ :/mfs/io/groups/lary/mintsData/liveUpdate/results/"
+
+    "Results File Located     @ :/mfs/io/groups/lary/mintsData/modelsMats/UTDNodes/resultsNowXT.csv"
+
+
+
+
+
+    "Reading Raw Data"
+
+    "Reading: MINTS_001e06318c28_BME280_2021_02_10.csv"
+
+    "Reading: MINTS_001e06318c28_GPSGPGGA2_2021_02_10.csv"
+
+    "Reading: MINTS_001e06318c28_MGS001_2021_02_10.csv"
+
+    "Reading: MINTS_001e06318c28_OPCN2_2021_02_10.csv"
+
+    "Reading: MINTS_001e06318c28_PPD42NSDuo_2021_02_10.csv"
+
+    "Reading: MINTS_001e06318c28_SCD30_2021_02_10.csv"
+
+
+
+    "Saving UTD Nodes Data"
+
+
+
+
+
+    "Loading Best Models"
+
+    "Gaining Super Learner Predictions"
+
+
+
+    "Applying Corrections"
+
+
+
+Elapsed time is 7.086845 seconds.
+
+
+    "MINTS Done"
+
+
+
+    "---------------------MINTS---------------------"
+
+
+currentDate = 
+
+  datetime
+
+   10-Feb-2021 09:10:00
+
+
+nodeID =
+
+    '001e06305a6b'
+
+
+timeFile = 
+
+    "/mfs/io/groups/lary/mintsData/liveUpdate/scan/t_001e06305a6b.mat"
+
+
+timeFile = 
+
+    "/mfs/io/groups/lary/mintsData/liveUpdate/scan/t_001e06305a6b.mat"
+
+
+
+    "Data Folder Located      @ :/mfs/io/groups/lary/mintsData"
+
+    "Raw Data Located         @ :/mfs/io/groups/lary/mintsData/raw"
+
+    "Raw DotMat Data Located  @ :/mfs/io/groups/lary/mintsData/rawMats"
+
+    "Update Data Located      @ :/mfs/io/groups/lary/mintsData/liveUpdate/results/"
+
+    "Results File Located     @ :/mfs/io/groups/lary/mintsData/modelsMats/UTDNodes/resultsNowXT.csv"
+
+
+
+    "No Data for Node:001e06305a6b"
+
+
+
+    "---------------------MINTS---------------------"
+
+
+currentDate = 
+
+  datetime
+
+   10-Feb-2021 09:10:06
+
+
+nodeID =
+
+    '001e063239e3'
+
+
+timeFile = 
+
+    "/mfs/io/groups/lary/mintsData/liveUpdate/scan/t_001e063239e3.mat"
+
+
+timeFile = 
+
+    "/mfs/io/groups/lary/mintsData/liveUpdate/scan/t_001e063239e3.mat"
+
+
+
+    "Data Folder Located      @ :/mfs/io/groups/lary/mintsData"
+
+    "Raw Data Located         @ :/mfs/io/groups/lary/mintsData/raw"
+
+    "Raw DotMat Data Located  @ :/mfs/io/groups/lary/mintsData/rawMats"
+
+    "Update Data Located      @ :/mfs/io/groups/lary/mintsData/liveUpdate/results/"
+
+    "Results File Located     @ :/mfs/io/groups/lary/mintsData/modelsMats/UTDNodes/resultsNowXT.csv"
+
+
+
+
+
+    "Reading Raw Data"
+
+    "Reading: MINTS_001e063239e3_BME280_2021_02_10.csv"
+
+    "Reading: MINTS_001e063239e3_GPSGPGGA2_2021_02_10.csv"
+
+    "Reading: MINTS_001e063239e3_MGS001_2021_02_10.csv"
+
+    "Reading: MINTS_001e063239e3_OPCN2_2021_02_10.csv"
+
+    "Reading: MINTS_001e063239e3_PPD42NSDuo_2021_02_10.csv"
+
+    "Reading: MINTS_001e063239e3_SCD30_2021_02_10.csv"
+
+
+
+    "Saving UTD Nodes Data"
+
+
+
+
+
+    "Loading Best Models"
+
+    "Gaining Super Learner Predictions"
+
+
+
+    "Applying Corrections"
+
+
+
+Elapsed time is 7.200697 seconds.
+
+
+    "MINTS Done"
+
+
+
+    "---------------------MINTS---------------------"
+
+
+currentDate = 
+
+  datetime
+
+   10-Feb-2021 09:10:18
+
+
+nodeID =
+
+    '001e06305a6c'
+
+
+timeFile = 
+
+    "/mfs/io/groups/lary/mintsData/liveUpdate/scan/t_001e06305a6c.mat"
+
+
+timeFile = 
+
+    "/mfs/io/groups/lary/mintsData/liveUpdate/scan/t_001e06305a6c.mat"
+
+
+
+    "Data Folder Located      @ :/mfs/io/groups/lary/mintsData"
+
+    "Raw Data Located         @ :/mfs/io/groups/lary/mintsData/raw"
+
+    "Raw DotMat Data Located  @ :/mfs/io/groups/lary/mintsData/rawMats"
+
+    "Update Data Located      @ :/mfs/io/groups/lary/mintsData/liveUpdate/results/"
+
+    "Results File Located     @ :/mfs/io/groups/lary/mintsData/modelsMats/UTDNodes/resultsNowXT.csv"
+
+
+
+
+
+    "Reading Raw Data"
+
+    "Reading: MINTS_001e06305a6c_BME280_2021_02_10.csv"
+
+    "Reading: MINTS_001e06305a6c_MGS001_2021_02_10.csv"
+
+    "Reading: MINTS_001e06305a6c_OPCN2_2021_02_10.csv"
+
+    "Reading: MINTS_001e06305a6c_PPD42NSDuo_2021_02_10.csv"
+
+    "Reading: MINTS_001e06305a6c_SCD30_2021_02_10.csv"
+
+
+
+    "Saving UTD Nodes Data"
+
+
+
+
+
+    "Loading Best Models"
+
+    "Gaining Super Learner Predictions"
+
+
+
+    "Applying Corrections"
+
+
+
+Elapsed time is 7.084689 seconds.
+
+
+    "MINTS Done"
+
+
+
+    "---------------------MINTS---------------------"
+
+
+currentDate = 
+
+  datetime
+
+   10-Feb-2021 09:10:31
+
+
+nodeID =
+
+    '001e063239e6'
+
+
+timeFile = 
+
+    "/mfs/io/groups/lary/mintsData/liveUpdate/scan/t_001e063239e6.mat"
+
+
+timeFile = 
+
+    "/mfs/io/groups/lary/mintsData/liveUpdate/scan/t_001e063239e6.mat"
+
+
+
+    "Data Folder Located      @ :/mfs/io/groups/lary/mintsData"
+
+    "Raw Data Located         @ :/mfs/io/groups/lary/mintsData/raw"
+
+    "Raw DotMat Data Located  @ :/mfs/io/groups/lary/mintsData/rawMats"
+
+    "Update Data Located      @ :/mfs/io/groups/lary/mintsData/liveUpdate/results/"
+
+    "Results File Located     @ :/mfs/io/groups/lary/mintsData/modelsMats/UTDNodes/resultsNowXT.csv"
+
+
+
+
+
+    "Reading Raw Data"
+
+    "Reading: MINTS_001e063239e6_BME280_2021_02_10.csv"
+
+    "Reading: MINTS_001e063239e6_GPSGPGGA2_2021_02_10.csv"
+
+    "Reading: MINTS_001e063239e6_MGS001_2021_02_10.csv"
+
+    "Reading: MINTS_001e063239e6_OPCN2_2021_02_10.csv"
+
+    "Reading: MINTS_001e063239e6_SCD30_2021_02_10.csv"
+
+
+
+    "Saving UTD Nodes Data"
+
+
+currentTime = 
+
+  datetime
+
+   01-Jan-2016
+
+
+
+
+
+    "Loading Best Models"
+
+    "Insuffient Number of Models Saved for Node:001e063239e6"
+
+
+
+    "---------------------MINTS---------------------"
+
+
+currentDate = 
+
+  datetime
+
+   10-Feb-2021 09:10:42
+
+
+nodeID =
+
+    '001e06305a0a'
+
+
+timeFile = 
+
+    "/mfs/io/groups/lary/mintsData/liveUpdate/scan/t_001e06305a0a.mat"
+
+
+timeFile = 
+
+    "/mfs/io/groups/lary/mintsData/liveUpdate/scan/t_001e06305a0a.mat"
+
+
+
+    "Data Folder Located      @ :/mfs/io/groups/lary/mintsData"
+
+    "Raw Data Located         @ :/mfs/io/groups/lary/mintsData/raw"
+
+    "Raw DotMat Data Located  @ :/mfs/io/groups/lary/mintsData/rawMats"
+
+    "Update Data Located      @ :/mfs/io/groups/lary/mintsData/liveUpdate/results/"
+
+    "Results File Located     @ :/mfs/io/groups/lary/mintsData/modelsMats/UTDNodes/resultsNowXT.csv"
+
+
+
+
+
+    "Reading Raw Data"
+
+    "Reading: MINTS_001e06305a0a_BME280_2021_02_10.csv"
+
+    "Reading: MINTS_001e06305a0a_MGS001_2021_02_10.csv"
+
+    "Reading: MINTS_001e06305a0a_OPCN2_2021_02_10.csv"
+
+    "Reading: MINTS_001e06305a0a_SCD30_2021_02_10.csv"
+
+
+
+    "Saving UTD Nodes Data"
+
+    "No new Data for Node:001e06305a0a"
+
+
+
+    "---------------------MINTS---------------------"
+
+
+currentDate = 
+
+  datetime
+
+   10-Feb-2021 09:10:51
+
+
+nodeID =
+
+    '001e06318cee'
+
+
+timeFile = 
+
+    "/mfs/io/groups/lary/mintsData/liveUpdate/scan/t_001e06318cee.mat"
+
+
+timeFile = 
+
+    "/mfs/io/groups/lary/mintsData/liveUpdate/scan/t_001e06318cee.mat"
+
+
+
+    "Data Folder Located      @ :/mfs/io/groups/lary/mintsData"
+
+    "Raw Data Located         @ :/mfs/io/groups/lary/mintsData/raw"
+
+    "Raw DotMat Data Located  @ :/mfs/io/groups/lary/mintsData/rawMats"
+
+    "Update Data Located      @ :/mfs/io/groups/lary/mintsData/liveUpdate/results/"
+
+    "Results File Located     @ :/mfs/io/groups/lary/mintsData/modelsMats/UTDNodes/resultsNowXT.csv"
+
+
+
+
+
+    "Reading Raw Data"
+
+    "Reading: MINTS_001e06318cee_BME280_2021_02_10.csv"
+
+    "Reading: MINTS_001e06318cee_GPSGPGGA2_2021_02_10.csv"
+
+    "Reading: MINTS_001e06318cee_MGS001_2021_02_10.csv"
+
+    "Reading: MINTS_001e06318cee_OPCN2_2021_02_10.csv"
+
+    "Reading: MINTS_001e06318cee_SCD30_2021_02_10.csv"
+
+
+
+    "Saving UTD Nodes Data"
+
+    "No new Data for Node:001e06318cee"
+
+
+
+    "---------------------MINTS---------------------"
+
+
+currentDate = 
+
+  datetime
+
+   10-Feb-2021 09:11:00
+
+
+nodeID =
+
+    '001e06318cf1'
+
+
+timeFile = 
+
+    "/mfs/io/groups/lary/mintsData/liveUpdate/scan/t_001e06318cf1.mat"
+
+
+timeFile = 
+
+    "/mfs/io/groups/lary/mintsData/liveUpdate/scan/t_001e06318cf1.mat"
+
+
+
+    "Data Folder Located      @ :/mfs/io/groups/lary/mintsData"
+
+    "Raw Data Located         @ :/mfs/io/groups/lary/mintsData/raw"
+
+    "Raw DotMat Data Located  @ :/mfs/io/groups/lary/mintsData/rawMats"
+
+    "Update Data Located      @ :/mfs/io/groups/lary/mintsData/liveUpdate/results/"
+
+    "Results File Located     @ :/mfs/io/groups/lary/mintsData/modelsMats/UTDNodes/resultsNowXT.csv"
+
+
+
+
+
+    "Reading Raw Data"
+
+    "Reading: MINTS_001e06318cf1_BME280_2021_02_10.csv"
+
+    "Reading: MINTS_001e06318cf1_MGS001_2021_02_10.csv"
+
+    "Reading: MINTS_001e06318cf1_OPCN2_2021_02_10.csv"
+
+    "Reading: MINTS_001e06318cf1_SCD30_2021_02_10.csv"
+
+
+
+    "Saving UTD Nodes Data"
+
+
+
+
+
+    "Loading Best Models"
+
+    "Gaining Super Learner Predictions"
+
+
+
+    "Applying Corrections"
+
+
+
+Elapsed time is 6.735773 seconds.
+
+
+    "MINTS Done"
+
+
+
+    "---------------------MINTS---------------------"
+
+
+currentDate = 
+
+  datetime
+
+   10-Feb-2021 09:11:12
+
+
+nodeID =
+
+    '001e06305a12'
+
+
+timeFile = 
+
+    "/mfs/io/groups/lary/mintsData/liveUpdate/scan/t_001e06305a12.mat"
+
+
+timeFile = 
+
+    "/mfs/io/groups/lary/mintsData/liveUpdate/scan/t_001e06305a12.mat"
+
+
+
+    "Data Folder Located      @ :/mfs/io/groups/lary/mintsData"
+
+    "Raw Data Located         @ :/mfs/io/groups/lary/mintsData/raw"
+
+    "Raw DotMat Data Located  @ :/mfs/io/groups/lary/mintsData/rawMats"
+
+    "Update Data Located      @ :/mfs/io/groups/lary/mintsData/liveUpdate/results/"
+
+    "Results File Located     @ :/mfs/io/groups/lary/mintsData/modelsMats/UTDNodes/resultsNowXT.csv"
+
+
+
+
+
+    "Reading Raw Data"
+
+    "Reading: MINTS_001e06305a12_BME280_2021_02_10.csv"
+
+    "Reading: MINTS_001e06305a12_GPSGPGGA2_2021_02_10.csv"
+
+    "Reading: MINTS_001e06305a12_MGS001_2021_02_10.csv"
+
+    "Reading: MINTS_001e06305a12_OPCN2_2021_02_10.csv"
+
+
+
+    "Saving UTD Nodes Data"
+
+
+
+
+
+    "Loading Best Models"
+
+    "Gaining Super Learner Predictions"
+
+
+
+    "Applying Corrections"
+
+
+
+Elapsed time is 7.344670 seconds.
+
+
+    "MINTS Done"
+
+
+
+    "---------------------MINTS---------------------"
+
+
+currentDate = 
+
+  datetime
+
+   10-Feb-2021 09:11:24
+
+
+nodeID =
+
+    '001e06323a12'
+
+
+timeFile = 
+
+    "/mfs/io/groups/lary/mintsData/liveUpdate/scan/t_001e06323a12.mat"
+
+
+timeFile = 
+
+    "/mfs/io/groups/lary/mintsData/liveUpdate/scan/t_001e06323a12.mat"
+
+
+
+    "Data Folder Located      @ :/mfs/io/groups/lary/mintsData"
+
+    "Raw Data Located         @ :/mfs/io/groups/lary/mintsData/raw"
+
+    "Raw DotMat Data Located  @ :/mfs/io/groups/lary/mintsData/rawMats"
+
+    "Update Data Located      @ :/mfs/io/groups/lary/mintsData/liveUpdate/results/"
+
+    "Results File Located     @ :/mfs/io/groups/lary/mintsData/modelsMats/UTDNodes/resultsNowXT.csv"
+
+
+
+
+
+    "Reading Raw Data"
+
+    "Reading: MINTS_001e06323a12_BME280_2021_02_10.csv"
+
+    "Reading: MINTS_001e06323a12_MGS001_2021_02_10.csv"
+
+    "Reading: MINTS_001e06323a12_OPCN2_2021_02_10.csv"
+
+    "Reading: MINTS_001e06323a12_PPD42NSDuo_2021_02_10.csv"
+
+    "Reading: MINTS_001e06323a12_SCD30_2021_02_10.csv"
+
+
+
+    "Saving UTD Nodes Data"
+
+
+
+
+
+    "Loading Best Models"
+
+    "Gaining Super Learner Predictions"
+
+
+
+    "Applying Corrections"
+
+
+
+Elapsed time is 7.181352 seconds.
+
+
+    "MINTS Done"
+
+
+
+    "---------------------MINTS---------------------"
+
+
+currentDate = 
+
+  datetime
+
+   10-Feb-2021 09:11:37
+
+
+nodeID =
+
+    '001e06318cd1'
+
+
+timeFile = 
+
+    "/mfs/io/groups/lary/mintsData/liveUpdate/scan/t_001e06318cd1.mat"
+
+
+timeFile = 
+
+    "/mfs/io/groups/lary/mintsData/liveUpdate/scan/t_001e06318cd1.mat"
+
+
+
+    "Data Folder Located      @ :/mfs/io/groups/lary/mintsData"
+
+    "Raw Data Located         @ :/mfs/io/groups/lary/mintsData/raw"
+
+    "Raw DotMat Data Located  @ :/mfs/io/groups/lary/mintsData/rawMats"
+
+    "Update Data Located      @ :/mfs/io/groups/lary/mintsData/liveUpdate/results/"
+
+    "Results File Located     @ :/mfs/io/groups/lary/mintsData/modelsMats/UTDNodes/resultsNowXT.csv"
+
+
+
+
+
+    "Reading Raw Data"
+
+    "Reading: MINTS_001e06318cd1_BME280_2021_02_10.csv"
+
+    "Reading: MINTS_001e06318cd1_GPSGPGGA2_2021_02_10.csv"
+
+    "Reading: MINTS_001e06318cd1_MGS001_2021_02_10.csv"
+
+    "Reading: MINTS_001e06318cd1_OPCN2_2021_02_10.csv"
+
+    "Reading: MINTS_001e06318cd1_PPD42NSDuo_2021_02_10.csv"
+
+    "Reading: MINTS_001e06318cd1_SCD30_2021_02_10.csv"
+
+
+
+    "Saving UTD Nodes Data"
+
+
+
+
+
+    "Loading Best Models"
+
+    "Gaining Super Learner Predictions"
+
+
+
+    "Applying Corrections"
+
+
+
+Elapsed time is 7.133838 seconds.
+
+
+    "MINTS Done"
+
+
+
+    "---------------------MINTS---------------------"
+
+
+currentDate = 
+
+  datetime
+
+   10-Feb-2021 09:11:49
+
+
+nodeID =
+
+    '001e06305a61'
+
+
+timeFile = 
+
+    "/mfs/io/groups/lary/mintsData/liveUpdate/scan/t_001e06305a61.mat"
+
+
+timeFile = 
+
+    "/mfs/io/groups/lary/mintsData/liveUpdate/scan/t_001e06305a61.mat"
+
+
+
+    "Data Folder Located      @ :/mfs/io/groups/lary/mintsData"
+
+    "Raw Data Located         @ :/mfs/io/groups/lary/mintsData/raw"
+
+    "Raw DotMat Data Located  @ :/mfs/io/groups/lary/mintsData/rawMats"
+
+    "Update Data Located      @ :/mfs/io/groups/lary/mintsData/liveUpdate/results/"
+
+    "Results File Located     @ :/mfs/io/groups/lary/mintsData/modelsMats/UTDNodes/resultsNowXT.csv"
+
+
+
+
+
+    "Reading Raw Data"
+
+    "Reading: MINTS_001e06305a61_BME280_2021_02_10.csv"
+
+    "Reading: MINTS_001e06305a61_GPSGPGGA2_2021_02_10.csv"
+
+    "Reading: MINTS_001e06305a61_MGS001_2021_02_10.csv"
+
+    "Reading: MINTS_001e06305a61_OPCN2_2021_02_10.csv"
+
+    "Reading: MINTS_001e06305a61_PPD42NSDuo_2021_02_10.csv"
+
+    "Reading: MINTS_001e06305a61_SCD30_2021_02_10.csv"
+
+
+
+    "Saving UTD Nodes Data"
+
+
+
+
+
+    "Loading Best Models"
+
+    "Gaining Super Learner Predictions"
+
+
+
+    "Applying Corrections"
+
+
+
+Elapsed time is 7.337749 seconds.
+
+
+    "MINTS Done"
+
+
+
+    "---------------------MINTS---------------------"
+
+
+currentDate = 
+
+  datetime
+
+   10-Feb-2021 09:12:02
+
+
+nodeID =
+
+    '001e06323a05'
+
+
+timeFile = 
+
+    "/mfs/io/groups/lary/mintsData/liveUpdate/scan/t_001e06323a05.mat"
+
+
+timeFile = 
+
+    "/mfs/io/groups/lary/mintsData/liveUpdate/scan/t_001e06323a05.mat"
+
+
+
+    "Data Folder Located      @ :/mfs/io/groups/lary/mintsData"
+
+    "Raw Data Located         @ :/mfs/io/groups/lary/mintsData/raw"
+
+    "Raw DotMat Data Located  @ :/mfs/io/groups/lary/mintsData/rawMats"
+
+    "Update Data Located      @ :/mfs/io/groups/lary/mintsData/liveUpdate/results/"
+
+    "Results File Located     @ :/mfs/io/groups/lary/mintsData/modelsMats/UTDNodes/resultsNowXT.csv"
+
+
+
+
+
+    "Reading Raw Data"
+
+    "Reading: MINTS_001e06323a05_BME280_2021_02_10.csv"
+
+    "Reading: MINTS_001e06323a05_GPSGPGGA2_2021_02_10.csv"
+
+    "Reading: MINTS_001e06323a05_MGS001_2021_02_10.csv"
+
+    "Reading: MINTS_001e06323a05_OPCN2_2021_02_10.csv"
+
+    "Reading: MINTS_001e06323a05_PPD42NSDuo_2021_02_10.csv"
+
+    "Reading: MINTS_001e06323a05_SCD30_2021_02_10.csv"
+
+
+
+    "Saving UTD Nodes Data"
+
+
+
+
+
+    "Loading Best Models"

@@ -34,14 +34,14 @@ function [] = liveRunTimedDynamic(nodeIndex,yamlFile)
                                 num2str(month(currentDate),'%02d'),"/",...
                                 num2str(day(currentDate),'%02d'))    ;                                
                             
-    resultsFile        = modelsFolder+ "resultsNow.csv";
+    resultsFile        = modelsFolder+ "resultsNowXT.csv";
 
     display(newline);
     display("Data Folder Located      @ :"+ dataFolder);
     display("Raw Data Located         @ :"+ rawFolder );
     display("Raw DotMat Data Located  @ :"+ rawMatsFolder);
     display("Update Data Located      @ :"+ updateFolder);
-
+    display("Results File Located     @ :"+ resultsFile);
     display(newline)
     
     %AS7262Files      =  dir(strcat(currentFolder,'/*AS7262*.csv'))
