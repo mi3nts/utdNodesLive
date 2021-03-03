@@ -33,10 +33,10 @@ for nodes in nodeIDs:
     "/" + str(deleteDate.month).zfill(2)+ "/"+str(deleteDate.day).zfill(2)
     print(deletePath)
 
-    try:
-        shutil.rmtree(deletePath)
-    except OSError as e:
-        print ("Error: %s - %s." % (e.filename, e.strerror))
+#    try:
+#        shutil.rmtree(deletePath)
+#    except OSError as e:
+#        print ("Error: %s - %s." % (e.filename, e.strerror))
 
 
 
