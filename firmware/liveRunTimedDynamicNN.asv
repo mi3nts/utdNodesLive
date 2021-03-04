@@ -1,11 +1,11 @@
-function [] = liveRunDynamic(nodeIndex,yamlFile)
+function [] = liveRunTimedDynamicNN(nodeIndex,yamlFile)
     
     tic
     display(newline)
     display("---------------------MINTS---------------------")
     
     nodeIndex = round(str2double(nodeIndex)) ;
-    currentDate= datetime('now','timezone','utc') ;
+    currentDate= datetime('now','timezone','utc') 
     display(currentDate);
     
     mintsDefinitions   = ReadYaml(yamlFile);
@@ -25,25 +25,23 @@ function [] = liveRunDynamic(nodeIndex,yamlFile)
     nodeID             =  nodeIDs{nodeIndex}.nodeID;
     display(nodeID);
     
-    lengthFile         =  strcat(scanFolder,"x"+nodeID,".mat")
-    folderCheck(lengthFile)
-    display(lengthFile);
+    timeFile         =  strcat(scanFolder,"t_"+nodeID,".mat")
+    folderCheck(timeFile)
+    display(timeFile);
     
     todaysNodeFolder   = strcat(rawFolder,"/",nodeID,"/",...
                                 num2str(year(currentDate),'%04d'),"/",...
                                 num2str(month(currentDate),'%02d'),"/",...
                                 num2str(day(currentDate),'%02d'))    ;                                
                             
-    resultsFile        = modelsFolder+ "resultsNow.csv";
+    resultsFile        = modelsFolder+ "WS.csv";
 
     display(newline);
     display("Data Folder Located      @ :"+ dataFolder);
     display("Raw Data Located         @ :"+ rawFolder );
     display("Raw DotMat Data Located  @ :"+ rawMatsFolder);
     display("Update Data Located      @ :"+ updateFolder);
-
-
-    diplay("Results File Located       @ :" + resultsFile);
+    display("Results File Located     @ :"+ resultsFile);
     display(newline)
     
     %AS7262Files      =  dir(strcat(currentFolder,'/*AS7262*.csv'))
@@ -57,6 +55,7 @@ function [] = liveRunDynamic(nodeIndex,yamlFile)
     SCD30Files       =  dir(strcat(todaysNodeFolder,'/*SCD30*.csv'));
     % TSL2591Files     =  dir(strcat(currentFolder,'/*TSL2591*.csv'))
     % VEML6075Files    =  dir(strcat(currentFolder,'/*VEML6075*.csv'))
+
     if isempty(BME280Files)||(isempty(OPCN2Files)&&isempty(OPCN3Files))
 
         display("No Data for Node:" +  nodeID)
@@ -64,19 +63,9 @@ function [] = liveRunDynamic(nodeIndex,yamlFile)
 
     end    
     
-    %% Loading the appropriate models 
-    display(newline)
-    display("Loading Best Models")
-       
-    [bestModels,bestModelsLabels] = readResultsNow(resultsFile,nodeID,mintsTargets,modelsFolder)
-
-    if(sum(cellfun(@isempty,bestModels))>0 || length(bestModels)<10)
-        display("Insuffient Number of Models Saved for Node:" +  nodeID)
-        return;
-    end    
-    
     display(newline)
     display("Reading Raw Data")
+    
     
     [BME280,GPSGPGGA2,MGS001,OPCN2,OPCN3,PPD42NSDuo,SCD30]...
                             = dataInput(BME280Files,GPSGPGGA2Files,...
@@ -121,31 +110,56 @@ function [] = liveRunDynamic(nodeIndex,yamlFile)
   
     printName=getPrintName(updateFolder,nodeID,currentDate,'calibrated');
     
+%     latestDataAl()
+    % Remove Any Nans from the data set 
+    latestDataAll(isnan(latestDataAll.temperature_BME280),:) = [];
+    latestDataAll(isnan(latestDataAll.binCount0),:) = [];
+    latestDataAll(isnan(latestDataAll.no2),:) = [];
+    
     csvAvailable =     isfile(printName);
         
     
     if csvAvailable
-        currentLength =  load(lengthFile).nextLength; 
-        In  =  table2array(latestDataAll(currentLength:end,mintsInputs));
-        predictedTablePre = latestDataAll(currentLength:end,contains(latestDataAll.Properties.VariableNames,"binCount"));
-        strCombine = "predictedTablePost = timetable(latestDataAll.dateTime(currentLength:end,:)";
+        currentTime          =  load(timeFile).nextTime;
+        In                   =  table2array(latestDataAll(latestDataAll.dateTime>currentTime,mintsInputs));
+        predictedTablePre    = latestDataAll(latestDataAll.dateTime>currentTime,contains(latestDataAll.Properties.VariableNames,"binCount"));
+        strCombine = "predictedTablePost = timetable(latestDataAll.dateTime(latestDataAll.dateTime>currentTime)";
     else
-        currentLength =  1;
+        currentTime = datetime(2016,1,1,'timezone','utc')
         In  =  table2array(latestDataAll(:,mintsInputs));
         predictedTablePre = latestDataAll(:,contains(latestDataAll.Properties.VariableNames,"binCount"));
         strCombine = "predictedTablePost = timetable(latestDataAll.dateTime";
     end
     
-    
-    nextLength = height(latestDataAll)-1;
-    
-    if currentLength == nextLength 
+
+    nextTime = latestDataAll.dateTime(end);
+%     currentTime
+%     nextTime
+    if currentTime == nextTime 
         display("No new Data for Node:" +  nodeID)
         return;
     end      
       
     display(newline)
-    display("Gaining NN Predictions")
+    
+    
+    %% Loading the appropriate models 
+    display(newline)
+    display("Loading Best Models")
+       
+    [bestModels,bestModelsLabels] = readResultsNow(resultsFile,nodeID,mintsTargets,modelsFolder);
+    bestModelsLabels
+
+    if(sum(cellfun(@isempty,bestModels))>0 || length(bestModels)<10)
+        display("Insuffient Number of Models Saved for Node:" +  nodeID)
+        return;
+    end    
+    
+
+    
+    
+    
+    display("Gaining Super Learner Predictions")
     
     for n = 1: length(bestModels)
        eval(strcat(mintsTargets{n},"_predicted= " , "predictrnn(bestModels{n},In);"));
@@ -261,7 +275,7 @@ function [] = liveRunDynamic(nodeIndex,yamlFile)
     end
      
     
-    save(lengthFile,'nextLength'); 
+    save(timeFile,'nextTime'); 
     
     
     printCSVT(bestModelsLabels,updateFolder,nodeID,currentDate,'modelInfo');
