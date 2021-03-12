@@ -1,5 +1,5 @@
 #!/bin/bash
-ml load matlab
+#ml load matlab
 echo "MINTS Init ;)"
-matlab -nodesktop -nodisplay -nosplash -r "mainLive"
+matlab -nodesktop -nodisplay -nosplash -r "mainLiveNN"
 

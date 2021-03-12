@@ -20,7 +20,7 @@ with open(yamlFile) as file:
 dataFolder = mintsDefinitions['dataFolder']+ "/modelsMats/"
 
 print("Syncing Models Data")
-sysStr = 'rsync -avzrtu -e ssh lhw150030@europa.circ.utdallas.edu:/home/lhw150030/mintsData/modelsMats/ ' + dataFolder
+sysStr = 'rsync -avzrtu -e ssh lhw150030@europa.circ.utdallas.edu:/scratch/lhw150030/mintsData/modelsMats/ ' + dataFolder
 print(sysStr)
 os.system(sysStr)
 
