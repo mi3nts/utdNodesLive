@@ -1,0 +1,158 @@
+Running calibration scripts for UTD Node: 7
+Running on host: compute-1-3-7
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2020 The MathWorks, Inc.
+              R2020a Update 1 (9.8.0.1359463) 64-bit (glnxa64)
+                               April 9, 2020
+
+ 
+To get started, type doc.
+For product information, visit www.mathworks.com.
+ 
+    "---------------------MINTS---------------------"
+
+
+
+
+
+    "Node Index               =  7"
+
+    "Node ID                  =  001e063059c2"
+
+    "Data Folder Located      @ :/scratch/lhw150030/mintsData"
+
+    "Raw Data Located         @ :/scratch/lhw150030/mintsData/raw"
+
+    "Raw DotMat Data Located  @ :/scratch/lhw150030/mintsData/rawMats"
+
+    "Update Data Located      @ :/scratch/lhw150030/mintsData/liveUpdate/UTDNodes"
+
+    "Loading Best Models"
+
+    "Predicting pm1_palas"
+
+    "Predicting pm2_5_palas"
+
+    "Predicting pm4_palas"
+
+    "Predicting pm10_palas"
+
+    "Predicting pmTotal_palas"
+
+    "Predicting dCn_palas"
+
+    "Predicting temperatureAirmar"
+
+    "Predicting humidityAirmar"
+
+    "Predicting dewPointAirmar"
+
+    "Predicting pressureAirmar"
+
+    "Gaining Prediction"
+
+    "Printing complete Time Series for Node: 001e063059c2"
+
+    "Printing files for Node: 001e063059c2 for 12-Mar-2021"
+
+    "Printing files for Node: 001e063059c2 for 11-Mar-2021"
+
+    "Printing files for Node: 001e063059c2 for 10-Mar-2021"
+
+    "Printing files for Node: 001e063059c2 for 09-Mar-2021"
+
+    "Printing files for Node: 001e063059c2 for 08-Mar-2021"
+
+    "Printing files for Node: 001e063059c2 for 07-Mar-2021"
+
+    "Printing files for Node: 001e063059c2 for 06-Mar-2021"
+
+    "Printing files for Node: 001e063059c2 for 05-Mar-2021"
+
+    "Printing files for Node: 001e063059c2 for 04-Mar-2021"
+
+    "Printing files for Node: 001e063059c2 for 03-Mar-2021"
+
+    "Printing files for Node: 001e063059c2 for 02-Mar-2021"
+
+    "Printing files for Node: 001e063059c2 for 01-Mar-2021"
+
+    "Printing files for Node: 001e063059c2 for 28-Feb-2021"
+
+    "Printing files for Node: 001e063059c2 for 27-Feb-2021"
+
+    "Printing files for Node: 001e063059c2 for 26-Feb-2021"
+
+    "Printing files for Node: 001e063059c2 for 25-Feb-2021"
+
+    "Printing files for Node: 001e063059c2 for 24-Feb-2021"
+
+    "Printing files for Node: 001e063059c2 for 23-Feb-2021"
+
+    "Printing files for Node: 001e063059c2 for 22-Feb-2021"
+
+    "Printing files for Node: 001e063059c2 for 21-Feb-2021"
+
+    "Printing files for Node: 001e063059c2 for 20-Feb-2021"
+
+    "Printing files for Node: 001e063059c2 for 19-Feb-2021"
+
+    "Printing files for Node: 001e063059c2 for 18-Feb-2021"
+
+    "Printing files for Node: 001e063059c2 for 17-Feb-2021"
+
+    "Printing files for Node: 001e063059c2 for 16-Feb-2021"
+
+    "Printing files for Node: 001e063059c2 for 15-Feb-2021"
+
+    "Printing files for Node: 001e063059c2 for 14-Feb-2021"
+
+    "Printing files for Node: 001e063059c2 for 13-Feb-2021"
+
+    "Printing files for Node: 001e063059c2 for 12-Feb-2021"
+
+    "Printing files for Node: 001e063059c2 for 11-Feb-2021"
+
+    "Printing files for Node: 001e063059c2 for 10-Feb-2021"
+
+    "Printing files for Node: 001e063059c2 for 09-Feb-2021"
+
+    "Printing files for Node: 001e063059c2 for 08-Feb-2021"
+
+    "Printing files for Node: 001e063059c2 for 07-Feb-2021"
+
+    "Printing files for Node: 001e063059c2 for 06-Feb-2021"
+
+    "Printing files for Node: 001e063059c2 for 05-Feb-2021"
+
+    "Printing files for Node: 001e063059c2 for 04-Feb-2021"
+
+    "Printing files for Node: 001e063059c2 for 03-Feb-2021"
+
+    "Printing files for Node: 001e063059c2 for 02-Feb-2021"
+
+    "Printing files for Node: 001e063059c2 for 01-Feb-2021"
+
+    "Printing files for Node: 001e063059c2 for 31-Jan-2021"
+
+    "Printing files for Node: 001e063059c2 for 30-Jan-2021"
+
+    "Printing files for Node: 001e063059c2 for 29-Jan-2021"
+
+    "Printing files for Node: 001e063059c2 for 28-Jan-2021"
+
+    "Printing files for Node: 001e063059c2 for 27-Jan-2021"
+
+    "Printing files for Node: 001e063059c2 for 26-Jan-2021"
+
+    "Printing files for Node: 001e063059c2 for 25-Jan-2021"
+
+    "Printing files for Node: 001e063059c2 for 24-Jan-2021"
+
+    "Printing files for Node: 001e063059c2 for 23-Jan-2021"
+
+    "Printing files for Node: 001e063059c2 for 22-Jan-2021"
+
+    "Printing files for Node: 001e063059c2 for 21-Jan-2021"
+

@@ -15,6 +15,6 @@ function [] = printCSVTT(calibrated,folder,nodeID,givenDate,stringIn)
                                                  );  
                                              
 
-    mkdir(fileparts(outCalibratedFileName));
+    folderCheck(outCalibratedFileName);
     writetimetable(calibrated,outCalibratedFileName)
 end

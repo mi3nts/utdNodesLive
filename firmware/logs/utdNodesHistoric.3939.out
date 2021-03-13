@@ -1,0 +1,734 @@
+Running calibration scripts for UTD Node: 14
+Running on host: compute-1-3-14
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2020 The MathWorks, Inc.
+              R2020a Update 1 (9.8.0.1359463) 64-bit (glnxa64)
+                               April 9, 2020
+
+ 
+To get started, type doc.
+For product information, visit www.mathworks.com.
+ 
+    "---------------------MINTS---------------------"
+
+
+
+
+
+    "Node Index               =  14"
+
+    "Node ID                  =  001e06318cee"
+
+    "Data Folder Located      @ :/scratch/lhw150030/mintsData"
+
+    "Raw Data Located         @ :/scratch/lhw150030/mintsData/raw"
+
+    "Raw DotMat Data Located  @ :/scratch/lhw150030/mintsData/rawMats"
+
+    "Update Data Located      @ :/scratch/lhw150030/mintsData/liveUpdate/UTDNodes"
+
+    "Loading Best Models"
+
+    "Predicting pm1_palas"
+
+    "Predicting pm2_5_palas"
+
+    "Predicting pm4_palas"
+
+    "Predicting pm10_palas"
+
+    "Predicting pmTotal_palas"
+
+    "Predicting dCn_palas"
+
+    "Predicting temperatureAirmar"
+
+    "Predicting humidityAirmar"
+
+    "Predicting dewPointAirmar"
+
+    "Predicting pressureAirmar"
+
+    "Gaining Prediction"
+
+    "Printing complete Time Series for Node: 001e06318cee"
+
+    "Printing files for Node: 001e06318cee for 12-Mar-2021"
+
+    "Printing files for Node: 001e06318cee for 11-Mar-2021"
+
+    "Printing files for Node: 001e06318cee for 10-Mar-2021"
+
+    "Printing files for Node: 001e06318cee for 09-Mar-2021"
+
+    "Printing files for Node: 001e06318cee for 08-Mar-2021"
+
+    "Printing files for Node: 001e06318cee for 07-Mar-2021"
+
+    "Printing files for Node: 001e06318cee for 06-Mar-2021"
+
+    "Printing files for Node: 001e06318cee for 05-Mar-2021"
+
+    "Creating Folder @: '/scratch/lhw150030/mintsData/liveUpdate/UTDNodes/001e06318cee/2021/03/05'"
+
+    "Printing files for Node: 001e06318cee for 04-Mar-2021"
+
+    "Creating Folder @: '/scratch/lhw150030/mintsData/liveUpdate/UTDNodes/001e06318cee/2021/03/04'"
+
+    "Printing files for Node: 001e06318cee for 03-Mar-2021"
+
+    "Creating Folder @: '/scratch/lhw150030/mintsData/liveUpdate/UTDNodes/001e06318cee/2021/03/03'"
+
+    "Printing files for Node: 001e06318cee for 02-Mar-2021"
+
+    "Creating Folder @: '/scratch/lhw150030/mintsData/liveUpdate/UTDNodes/001e06318cee/2021/03/02'"
+
+    "Printing files for Node: 001e06318cee for 01-Mar-2021"
+
+    "Creating Folder @: '/scratch/lhw150030/mintsData/liveUpdate/UTDNodes/001e06318cee/2021/03/01'"
+
+    "Printing files for Node: 001e06318cee for 28-Feb-2021"
+
+    "Creating Folder @: '/scratch/lhw150030/mintsData/liveUpdate/UTDNodes/001e06318cee/2021/02/28'"
+
+    "Printing files for Node: 001e06318cee for 27-Feb-2021"
+
+    "Creating Folder @: '/scratch/lhw150030/mintsData/liveUpdate/UTDNodes/001e06318cee/2021/02/27'"
+
+    "Printing files for Node: 001e06318cee for 26-Feb-2021"
+
+    "Creating Folder @: '/scratch/lhw150030/mintsData/liveUpdate/UTDNodes/001e06318cee/2021/02/26'"
+
+    "Printing files for Node: 001e06318cee for 25-Feb-2021"
+
+    "Creating Folder @: '/scratch/lhw150030/mintsData/liveUpdate/UTDNodes/001e06318cee/2021/02/25'"
+
+    "Printing files for Node: 001e06318cee for 24-Feb-2021"
+
+    "Creating Folder @: '/scratch/lhw150030/mintsData/liveUpdate/UTDNodes/001e06318cee/2021/02/24'"
+
+    "Printing files for Node: 001e06318cee for 23-Feb-2021"
+
+    "Creating Folder @: '/scratch/lhw150030/mintsData/liveUpdate/UTDNodes/001e06318cee/2021/02/23'"
+
+    "Printing files for Node: 001e06318cee for 22-Feb-2021"
+
+    "Creating Folder @: '/scratch/lhw150030/mintsData/liveUpdate/UTDNodes/001e06318cee/2021/02/22'"
+
+    "Printing files for Node: 001e06318cee for 21-Feb-2021"
+
+    "Creating Folder @: '/scratch/lhw150030/mintsData/liveUpdate/UTDNodes/001e06318cee/2021/02/21'"
+
+    "Printing files for Node: 001e06318cee for 20-Feb-2021"
+
+    "Creating Folder @: '/scratch/lhw150030/mintsData/liveUpdate/UTDNodes/001e06318cee/2021/02/20'"
+
+    "Printing files for Node: 001e06318cee for 19-Feb-2021"
+
+    "Creating Folder @: '/scratch/lhw150030/mintsData/liveUpdate/UTDNodes/001e06318cee/2021/02/19'"
+
+    "Printing files for Node: 001e06318cee for 18-Feb-2021"
+
+    "Creating Folder @: '/scratch/lhw150030/mintsData/liveUpdate/UTDNodes/001e06318cee/2021/02/18'"
+
+    "Printing files for Node: 001e06318cee for 17-Feb-2021"
+
+    "Creating Folder @: '/scratch/lhw150030/mintsData/liveUpdate/UTDNodes/001e06318cee/2021/02/17'"
+
+    "Printing files for Node: 001e06318cee for 16-Feb-2021"
+
+    "Creating Folder @: '/scratch/lhw150030/mintsData/liveUpdate/UTDNodes/001e06318cee/2021/02/16'"
+
+    "Printing files for Node: 001e06318cee for 15-Feb-2021"
+
+    "Creating Folder @: '/scratch/lhw150030/mintsData/liveUpdate/UTDNodes/001e06318cee/2021/02/15'"
+
+    "Printing files for Node: 001e06318cee for 14-Feb-2021"
+
+    "Creating Folder @: '/scratch/lhw150030/mintsData/liveUpdate/UTDNodes/001e06318cee/2021/02/14'"
+
+    "Printing files for Node: 001e06318cee for 13-Feb-2021"
+
+    "Creating Folder @: '/scratch/lhw150030/mintsData/liveUpdate/UTDNodes/001e06318cee/2021/02/13'"
+
+    "Printing files for Node: 001e06318cee for 12-Feb-2021"
+
+    "Creating Folder @: '/scratch/lhw150030/mintsData/liveUpdate/UTDNodes/001e06318cee/2021/02/12'"
+
+    "Printing files for Node: 001e06318cee for 11-Feb-2021"
+
+    "Creating Folder @: '/scratch/lhw150030/mintsData/liveUpdate/UTDNodes/001e06318cee/2021/02/11'"
+
+    "Printing files for Node: 001e06318cee for 10-Feb-2021"
+
+    "Creating Folder @: '/scratch/lhw150030/mintsData/liveUpdate/UTDNodes/001e06318cee/2021/02/10'"
+
+    "Printing files for Node: 001e06318cee for 09-Feb-2021"
+
+    "Creating Folder @: '/scratch/lhw150030/mintsData/liveUpdate/UTDNodes/001e06318cee/2021/02/09'"
+
+    "Printing files for Node: 001e06318cee for 08-Feb-2021"
+
+    "Creating Folder @: '/scratch/lhw150030/mintsData/liveUpdate/UTDNodes/001e06318cee/2021/02/08'"
+
+    "Printing files for Node: 001e06318cee for 07-Feb-2021"
+
+    "Creating Folder @: '/scratch/lhw150030/mintsData/liveUpdate/UTDNodes/001e06318cee/2021/02/07'"
+
+    "Printing files for Node: 001e06318cee for 06-Feb-2021"
+
+    "Creating Folder @: '/scratch/lhw150030/mintsData/liveUpdate/UTDNodes/001e06318cee/2021/02/06'"
+
+    "Printing files for Node: 001e06318cee for 05-Feb-2021"
+
+    "Creating Folder @: '/scratch/lhw150030/mintsData/liveUpdate/UTDNodes/001e06318cee/2021/02/05'"
+
+    "Printing files for Node: 001e06318cee for 04-Feb-2021"
+
+    "Creating Folder @: '/scratch/lhw150030/mintsData/liveUpdate/UTDNodes/001e06318cee/2021/02/04'"
+
+    "Printing files for Node: 001e06318cee for 03-Feb-2021"
+
+    "Creating Folder @: '/scratch/lhw150030/mintsData/liveUpdate/UTDNodes/001e06318cee/2021/02/03'"
+
+    "Printing files for Node: 001e06318cee for 02-Feb-2021"
+
+    "Creating Folder @: '/scratch/lhw150030/mintsData/liveUpdate/UTDNodes/001e06318cee/2021/02/02'"
+
+    "Printing files for Node: 001e06318cee for 01-Feb-2021"
+
+    "Creating Folder @: '/scratch/lhw150030/mintsData/liveUpdate/UTDNodes/001e06318cee/2021/02/01'"
+
+    "Printing files for Node: 001e06318cee for 31-Jan-2021"
+
+    "Creating Folder @: '/scratch/lhw150030/mintsData/liveUpdate/UTDNodes/001e06318cee/2021/01/31'"
+
+    "Printing files for Node: 001e06318cee for 30-Jan-2021"
+
+    "Creating Folder @: '/scratch/lhw150030/mintsData/liveUpdate/UTDNodes/001e06318cee/2021/01/30'"
+
+    "Printing files for Node: 001e06318cee for 29-Jan-2021"
+
+    "Creating Folder @: '/scratch/lhw150030/mintsData/liveUpdate/UTDNodes/001e06318cee/2021/01/29'"
+
+    "Printing files for Node: 001e06318cee for 28-Jan-2021"
+
+    "Creating Folder @: '/scratch/lhw150030/mintsData/liveUpdate/UTDNodes/001e06318cee/2021/01/28'"
+
+    "Printing files for Node: 001e06318cee for 27-Jan-2021"
+
+    "Creating Folder @: '/scratch/lhw150030/mintsData/liveUpdate/UTDNodes/001e06318cee/2021/01/27'"
+
+    "Printing files for Node: 001e06318cee for 26-Jan-2021"
+
+    "Creating Folder @: '/scratch/lhw150030/mintsData/liveUpdate/UTDNodes/001e06318cee/2021/01/26'"
+
+    "Printing files for Node: 001e06318cee for 25-Jan-2021"
+
+    "Creating Folder @: '/scratch/lhw150030/mintsData/liveUpdate/UTDNodes/001e06318cee/2021/01/25'"
+
+    "Printing files for Node: 001e06318cee for 24-Jan-2021"
+
+    "Creating Folder @: '/scratch/lhw150030/mintsData/liveUpdate/UTDNodes/001e06318cee/2021/01/24'"
+
+    "Printing files for Node: 001e06318cee for 23-Jan-2021"
+
+    "Creating Folder @: '/scratch/lhw150030/mintsData/liveUpdate/UTDNodes/001e06318cee/2021/01/23'"
+
+    "Printing files for Node: 001e06318cee for 22-Jan-2021"
+
+    "Creating Folder @: '/scratch/lhw150030/mintsData/liveUpdate/UTDNodes/001e06318cee/2021/01/22'"
+
+    "Printing files for Node: 001e06318cee for 21-Jan-2021"
+
+    "Creating Folder @: '/scratch/lhw150030/mintsData/liveUpdate/UTDNodes/001e06318cee/2021/01/21'"
+
+    "Printing files for Node: 001e06318cee for 20-Jan-2021"
+
+    "Creating Folder @: '/scratch/lhw150030/mintsData/liveUpdate/UTDNodes/001e06318cee/2021/01/20'"
+
+    "Printing files for Node: 001e06318cee for 19-Jan-2021"
+
+    "Creating Folder @: '/scratch/lhw150030/mintsData/liveUpdate/UTDNodes/001e06318cee/2021/01/19'"
+
+    "Printing files for Node: 001e06318cee for 18-Jan-2021"
+
+    "Creating Folder @: '/scratch/lhw150030/mintsData/liveUpdate/UTDNodes/001e06318cee/2021/01/18'"
+
+    "Printing files for Node: 001e06318cee for 17-Jan-2021"
+
+    "Creating Folder @: '/scratch/lhw150030/mintsData/liveUpdate/UTDNodes/001e06318cee/2021/01/17'"
+
+    "Printing files for Node: 001e06318cee for 16-Jan-2021"
+
+    "Creating Folder @: '/scratch/lhw150030/mintsData/liveUpdate/UTDNodes/001e06318cee/2021/01/16'"
+
+    "Printing files for Node: 001e06318cee for 15-Jan-2021"
+
+    "Creating Folder @: '/scratch/lhw150030/mintsData/liveUpdate/UTDNodes/001e06318cee/2021/01/15'"
+
+    "Printing files for Node: 001e06318cee for 14-Jan-2021"
+
+    "Creating Folder @: '/scratch/lhw150030/mintsData/liveUpdate/UTDNodes/001e06318cee/2021/01/14'"
+
+    "Printing files for Node: 001e06318cee for 13-Jan-2021"
+
+    "Creating Folder @: '/scratch/lhw150030/mintsData/liveUpdate/UTDNodes/001e06318cee/2021/01/13'"
+
+    "Printing files for Node: 001e06318cee for 12-Jan-2021"
+
+    "Creating Folder @: '/scratch/lhw150030/mintsData/liveUpdate/UTDNodes/001e06318cee/2021/01/12'"
+
+    "Printing files for Node: 001e06318cee for 11-Jan-2021"
+
+    "Creating Folder @: '/scratch/lhw150030/mintsData/liveUpdate/UTDNodes/001e06318cee/2021/01/11'"
+
+    "Printing files for Node: 001e06318cee for 10-Jan-2021"
+
+    "Creating Folder @: '/scratch/lhw150030/mintsData/liveUpdate/UTDNodes/001e06318cee/2021/01/10'"
+
+    "Printing files for Node: 001e06318cee for 09-Jan-2021"
+
+    "Creating Folder @: '/scratch/lhw150030/mintsData/liveUpdate/UTDNodes/001e06318cee/2021/01/09'"
+
+    "Printing files for Node: 001e06318cee for 08-Jan-2021"
+
+    "Creating Folder @: '/scratch/lhw150030/mintsData/liveUpdate/UTDNodes/001e06318cee/2021/01/08'"
+
+    "Printing files for Node: 001e06318cee for 07-Jan-2021"
+
+    "Creating Folder @: '/scratch/lhw150030/mintsData/liveUpdate/UTDNodes/001e06318cee/2021/01/07'"
+
+    "Printing files for Node: 001e06318cee for 06-Jan-2021"
+
+    "Creating Folder @: '/scratch/lhw150030/mintsData/liveUpdate/UTDNodes/001e06318cee/2021/01/06'"
+
+    "Printing files for Node: 001e06318cee for 05-Jan-2021"
+
+    "Creating Folder @: '/scratch/lhw150030/mintsData/liveUpdate/UTDNodes/001e06318cee/2021/01/05'"
+
+    "Printing files for Node: 001e06318cee for 04-Jan-2021"
+
+    "Creating Folder @: '/scratch/lhw150030/mintsData/liveUpdate/UTDNodes/001e06318cee/2021/01/04'"
+
+    "Printing files for Node: 001e06318cee for 03-Jan-2021"
+
+    "Creating Folder @: '/scratch/lhw150030/mintsData/liveUpdate/UTDNodes/001e06318cee/2021/01/03'"
+
+    "Printing files for Node: 001e06318cee for 02-Jan-2021"
+
+    "Creating Folder @: '/scratch/lhw150030/mintsData/liveUpdate/UTDNodes/001e06318cee/2021/01/02'"
+
+    "Printing files for Node: 001e06318cee for 01-Jan-2021"
+
+    "Creating Folder @: '/scratch/lhw150030/mintsData/liveUpdate/UTDNodes/001e06318cee/2021/01/01'"
+
+    "Printing files for Node: 001e06318cee for 31-Dec-2020"
+
+    "Creating Folder @: '/scratch/lhw150030/mintsData/liveUpdate/UTDNodes/001e06318cee/2020/12/31'"
+
+    "Printing files for Node: 001e06318cee for 30-Dec-2020"
+
+    "Creating Folder @: '/scratch/lhw150030/mintsData/liveUpdate/UTDNodes/001e06318cee/2020/12/30'"
+
+    "Printing files for Node: 001e06318cee for 29-Dec-2020"
+
+    "Creating Folder @: '/scratch/lhw150030/mintsData/liveUpdate/UTDNodes/001e06318cee/2020/12/29'"
+
+    "Printing files for Node: 001e06318cee for 28-Dec-2020"
+
+    "Creating Folder @: '/scratch/lhw150030/mintsData/liveUpdate/UTDNodes/001e06318cee/2020/12/28'"
+
+    "Printing files for Node: 001e06318cee for 27-Dec-2020"
+
+    "Creating Folder @: '/scratch/lhw150030/mintsData/liveUpdate/UTDNodes/001e06318cee/2020/12/27'"
+
+    "Printing files for Node: 001e06318cee for 26-Dec-2020"
+
+    "Creating Folder @: '/scratch/lhw150030/mintsData/liveUpdate/UTDNodes/001e06318cee/2020/12/26'"
+
+    "Printing files for Node: 001e06318cee for 25-Dec-2020"
+
+    "Creating Folder @: '/scratch/lhw150030/mintsData/liveUpdate/UTDNodes/001e06318cee/2020/12/25'"
+
+    "Printing files for Node: 001e06318cee for 24-Dec-2020"
+
+    "Creating Folder @: '/scratch/lhw150030/mintsData/liveUpdate/UTDNodes/001e06318cee/2020/12/24'"
+
+    "Printing files for Node: 001e06318cee for 23-Dec-2020"
+
+    "Creating Folder @: '/scratch/lhw150030/mintsData/liveUpdate/UTDNodes/001e06318cee/2020/12/23'"
+
+    "Printing files for Node: 001e06318cee for 22-Dec-2020"
+
+    "Creating Folder @: '/scratch/lhw150030/mintsData/liveUpdate/UTDNodes/001e06318cee/2020/12/22'"
+
+    "Printing files for Node: 001e06318cee for 21-Dec-2020"
+
+    "Creating Folder @: '/scratch/lhw150030/mintsData/liveUpdate/UTDNodes/001e06318cee/2020/12/21'"
+
+    "Printing files for Node: 001e06318cee for 20-Dec-2020"
+
+    "Creating Folder @: '/scratch/lhw150030/mintsData/liveUpdate/UTDNodes/001e06318cee/2020/12/20'"
+
+    "Printing files for Node: 001e06318cee for 19-Dec-2020"
+
+    "Creating Folder @: '/scratch/lhw150030/mintsData/liveUpdate/UTDNodes/001e06318cee/2020/12/19'"
+
+    "Printing files for Node: 001e06318cee for 18-Dec-2020"
+
+    "Creating Folder @: '/scratch/lhw150030/mintsData/liveUpdate/UTDNodes/001e06318cee/2020/12/18'"
+
+    "Printing files for Node: 001e06318cee for 17-Dec-2020"
+
+    "Creating Folder @: '/scratch/lhw150030/mintsData/liveUpdate/UTDNodes/001e06318cee/2020/12/17'"
+
+    "Printing files for Node: 001e06318cee for 16-Dec-2020"
+
+    "Creating Folder @: '/scratch/lhw150030/mintsData/liveUpdate/UTDNodes/001e06318cee/2020/12/16'"
+
+    "Printing files for Node: 001e06318cee for 15-Dec-2020"
+
+    "Creating Folder @: '/scratch/lhw150030/mintsData/liveUpdate/UTDNodes/001e06318cee/2020/12/15'"
+
+    "Printing files for Node: 001e06318cee for 14-Dec-2020"
+
+    "Creating Folder @: '/scratch/lhw150030/mintsData/liveUpdate/UTDNodes/001e06318cee/2020/12/14'"
+
+    "Printing files for Node: 001e06318cee for 13-Dec-2020"
+
+    "Creating Folder @: '/scratch/lhw150030/mintsData/liveUpdate/UTDNodes/001e06318cee/2020/12/13'"
+
+    "Printing files for Node: 001e06318cee for 12-Dec-2020"
+
+    "Creating Folder @: '/scratch/lhw150030/mintsData/liveUpdate/UTDNodes/001e06318cee/2020/12/12'"
+
+    "Printing files for Node: 001e06318cee for 11-Dec-2020"
+
+    "Creating Folder @: '/scratch/lhw150030/mintsData/liveUpdate/UTDNodes/001e06318cee/2020/12/11'"
+
+    "Printing files for Node: 001e06318cee for 10-Dec-2020"
+
+    "Creating Folder @: '/scratch/lhw150030/mintsData/liveUpdate/UTDNodes/001e06318cee/2020/12/10'"
+
+    "Printing files for Node: 001e06318cee for 09-Dec-2020"
+
+    "Creating Folder @: '/scratch/lhw150030/mintsData/liveUpdate/UTDNodes/001e06318cee/2020/12/09'"
+
+    "Printing files for Node: 001e06318cee for 08-Dec-2020"
+
+    "Creating Folder @: '/scratch/lhw150030/mintsData/liveUpdate/UTDNodes/001e06318cee/2020/12/08'"
+
+    "Printing files for Node: 001e06318cee for 07-Dec-2020"
+
+    "Creating Folder @: '/scratch/lhw150030/mintsData/liveUpdate/UTDNodes/001e06318cee/2020/12/07'"
+
+    "Printing files for Node: 001e06318cee for 06-Dec-2020"
+
+    "Creating Folder @: '/scratch/lhw150030/mintsData/liveUpdate/UTDNodes/001e06318cee/2020/12/06'"
+
+    "Printing files for Node: 001e06318cee for 05-Dec-2020"
+
+    "Creating Folder @: '/scratch/lhw150030/mintsData/liveUpdate/UTDNodes/001e06318cee/2020/12/05'"
+
+    "Printing files for Node: 001e06318cee for 04-Dec-2020"
+
+    "Creating Folder @: '/scratch/lhw150030/mintsData/liveUpdate/UTDNodes/001e06318cee/2020/12/04'"
+
+    "Printing files for Node: 001e06318cee for 03-Dec-2020"
+
+    "Creating Folder @: '/scratch/lhw150030/mintsData/liveUpdate/UTDNodes/001e06318cee/2020/12/03'"
+
+    "Printing files for Node: 001e06318cee for 02-Dec-2020"
+
+    "Creating Folder @: '/scratch/lhw150030/mintsData/liveUpdate/UTDNodes/001e06318cee/2020/12/02'"
+
+    "Printing files for Node: 001e06318cee for 01-Dec-2020"
+
+    "Creating Folder @: '/scratch/lhw150030/mintsData/liveUpdate/UTDNodes/001e06318cee/2020/12/01'"
+
+    "Printing files for Node: 001e06318cee for 30-Nov-2020"
+
+    "Creating Folder @: '/scratch/lhw150030/mintsData/liveUpdate/UTDNodes/001e06318cee/2020/11/30'"
+
+    "Printing files for Node: 001e06318cee for 29-Nov-2020"
+
+    "Creating Folder @: '/scratch/lhw150030/mintsData/liveUpdate/UTDNodes/001e06318cee/2020/11/29'"
+
+    "Printing files for Node: 001e06318cee for 28-Nov-2020"
+
+    "Creating Folder @: '/scratch/lhw150030/mintsData/liveUpdate/UTDNodes/001e06318cee/2020/11/28'"
+
+    "Printing files for Node: 001e06318cee for 27-Nov-2020"
+
+    "Creating Folder @: '/scratch/lhw150030/mintsData/liveUpdate/UTDNodes/001e06318cee/2020/11/27'"
+
+    "Printing files for Node: 001e06318cee for 26-Nov-2020"
+
+    "Creating Folder @: '/scratch/lhw150030/mintsData/liveUpdate/UTDNodes/001e06318cee/2020/11/26'"
+
+    "Printing files for Node: 001e06318cee for 25-Nov-2020"
+
+    "Creating Folder @: '/scratch/lhw150030/mintsData/liveUpdate/UTDNodes/001e06318cee/2020/11/25'"
+
+    "Printing files for Node: 001e06318cee for 24-Nov-2020"
+
+    "Creating Folder @: '/scratch/lhw150030/mintsData/liveUpdate/UTDNodes/001e06318cee/2020/11/24'"
+
+    "Printing files for Node: 001e06318cee for 23-Nov-2020"
+
+    "Creating Folder @: '/scratch/lhw150030/mintsData/liveUpdate/UTDNodes/001e06318cee/2020/11/23'"
+
+    "Printing files for Node: 001e06318cee for 22-Nov-2020"
+
+    "Creating Folder @: '/scratch/lhw150030/mintsData/liveUpdate/UTDNodes/001e06318cee/2020/11/22'"
+
+    "Printing files for Node: 001e06318cee for 21-Nov-2020"
+
+    "Creating Folder @: '/scratch/lhw150030/mintsData/liveUpdate/UTDNodes/001e06318cee/2020/11/21'"
+
+    "Printing files for Node: 001e06318cee for 20-Nov-2020"
+
+    "Creating Folder @: '/scratch/lhw150030/mintsData/liveUpdate/UTDNodes/001e06318cee/2020/11/20'"
+
+    "Printing files for Node: 001e06318cee for 19-Nov-2020"
+
+    "Creating Folder @: '/scratch/lhw150030/mintsData/liveUpdate/UTDNodes/001e06318cee/2020/11/19'"
+
+    "Printing files for Node: 001e06318cee for 18-Nov-2020"
+
+    "Creating Folder @: '/scratch/lhw150030/mintsData/liveUpdate/UTDNodes/001e06318cee/2020/11/18'"
+
+    "Printing files for Node: 001e06318cee for 17-Nov-2020"
+
+    "Creating Folder @: '/scratch/lhw150030/mintsData/liveUpdate/UTDNodes/001e06318cee/2020/11/17'"
+
+    "Printing files for Node: 001e06318cee for 16-Nov-2020"
+
+    "Creating Folder @: '/scratch/lhw150030/mintsData/liveUpdate/UTDNodes/001e06318cee/2020/11/16'"
+
+    "Printing files for Node: 001e06318cee for 15-Nov-2020"
+
+    "Creating Folder @: '/scratch/lhw150030/mintsData/liveUpdate/UTDNodes/001e06318cee/2020/11/15'"
+
+    "Printing files for Node: 001e06318cee for 14-Nov-2020"
+
+    "Creating Folder @: '/scratch/lhw150030/mintsData/liveUpdate/UTDNodes/001e06318cee/2020/11/14'"
+
+    "Printing files for Node: 001e06318cee for 13-Nov-2020"
+
+    "Creating Folder @: '/scratch/lhw150030/mintsData/liveUpdate/UTDNodes/001e06318cee/2020/11/13'"
+
+    "Printing files for Node: 001e06318cee for 12-Nov-2020"
+
+    "Creating Folder @: '/scratch/lhw150030/mintsData/liveUpdate/UTDNodes/001e06318cee/2020/11/12'"
+
+    "Printing files for Node: 001e06318cee for 11-Nov-2020"
+
+    "Creating Folder @: '/scratch/lhw150030/mintsData/liveUpdate/UTDNodes/001e06318cee/2020/11/11'"
+
+    "Printing files for Node: 001e06318cee for 10-Nov-2020"
+
+    "Creating Folder @: '/scratch/lhw150030/mintsData/liveUpdate/UTDNodes/001e06318cee/2020/11/10'"
+
+    "Printing files for Node: 001e06318cee for 09-Nov-2020"
+
+    "Creating Folder @: '/scratch/lhw150030/mintsData/liveUpdate/UTDNodes/001e06318cee/2020/11/09'"
+
+    "Printing files for Node: 001e06318cee for 08-Nov-2020"
+
+    "Creating Folder @: '/scratch/lhw150030/mintsData/liveUpdate/UTDNodes/001e06318cee/2020/11/08'"
+
+    "Printing files for Node: 001e06318cee for 07-Nov-2020"
+
+    "Creating Folder @: '/scratch/lhw150030/mintsData/liveUpdate/UTDNodes/001e06318cee/2020/11/07'"
+
+    "Printing files for Node: 001e06318cee for 06-Nov-2020"
+
+    "Creating Folder @: '/scratch/lhw150030/mintsData/liveUpdate/UTDNodes/001e06318cee/2020/11/06'"
+
+    "Printing files for Node: 001e06318cee for 05-Nov-2020"
+
+    "Creating Folder @: '/scratch/lhw150030/mintsData/liveUpdate/UTDNodes/001e06318cee/2020/11/05'"
+
+    "Printing files for Node: 001e06318cee for 04-Nov-2020"
+
+    "Creating Folder @: '/scratch/lhw150030/mintsData/liveUpdate/UTDNodes/001e06318cee/2020/11/04'"
+
+    "Printing files for Node: 001e06318cee for 03-Nov-2020"
+
+    "Creating Folder @: '/scratch/lhw150030/mintsData/liveUpdate/UTDNodes/001e06318cee/2020/11/03'"
+
+    "Printing files for Node: 001e06318cee for 02-Nov-2020"
+
+    "Creating Folder @: '/scratch/lhw150030/mintsData/liveUpdate/UTDNodes/001e06318cee/2020/11/02'"
+
+    "Printing files for Node: 001e06318cee for 01-Nov-2020"
+
+    "Creating Folder @: '/scratch/lhw150030/mintsData/liveUpdate/UTDNodes/001e06318cee/2020/11/01'"
+
+    "Printing files for Node: 001e06318cee for 31-Oct-2020"
+
+    "Creating Folder @: '/scratch/lhw150030/mintsData/liveUpdate/UTDNodes/001e06318cee/2020/10/31'"
+
+    "Printing files for Node: 001e06318cee for 30-Oct-2020"
+
+    "Creating Folder @: '/scratch/lhw150030/mintsData/liveUpdate/UTDNodes/001e06318cee/2020/10/30'"
+
+    "Printing files for Node: 001e06318cee for 29-Oct-2020"
+
+    "Creating Folder @: '/scratch/lhw150030/mintsData/liveUpdate/UTDNodes/001e06318cee/2020/10/29'"
+
+    "Printing files for Node: 001e06318cee for 28-Oct-2020"
+
+    "Creating Folder @: '/scratch/lhw150030/mintsData/liveUpdate/UTDNodes/001e06318cee/2020/10/28'"
+
+    "Printing files for Node: 001e06318cee for 27-Oct-2020"
+
+    "Creating Folder @: '/scratch/lhw150030/mintsData/liveUpdate/UTDNodes/001e06318cee/2020/10/27'"
+
+    "Printing files for Node: 001e06318cee for 26-Oct-2020"
+
+    "Creating Folder @: '/scratch/lhw150030/mintsData/liveUpdate/UTDNodes/001e06318cee/2020/10/26'"
+
+    "Printing files for Node: 001e06318cee for 25-Oct-2020"
+
+    "Creating Folder @: '/scratch/lhw150030/mintsData/liveUpdate/UTDNodes/001e06318cee/2020/10/25'"
+
+    "Printing files for Node: 001e06318cee for 24-Oct-2020"
+
+    "Creating Folder @: '/scratch/lhw150030/mintsData/liveUpdate/UTDNodes/001e06318cee/2020/10/24'"
+
+    "Printing files for Node: 001e06318cee for 23-Oct-2020"
+
+    "Creating Folder @: '/scratch/lhw150030/mintsData/liveUpdate/UTDNodes/001e06318cee/2020/10/23'"
+
+    "Printing files for Node: 001e06318cee for 22-Oct-2020"
+
+    "Creating Folder @: '/scratch/lhw150030/mintsData/liveUpdate/UTDNodes/001e06318cee/2020/10/22'"
+
+    "Printing files for Node: 001e06318cee for 21-Oct-2020"
+
+    "Creating Folder @: '/scratch/lhw150030/mintsData/liveUpdate/UTDNodes/001e06318cee/2020/10/21'"
+
+    "Printing files for Node: 001e06318cee for 20-Oct-2020"
+
+    "Creating Folder @: '/scratch/lhw150030/mintsData/liveUpdate/UTDNodes/001e06318cee/2020/10/20'"
+
+    "Printing files for Node: 001e06318cee for 19-Oct-2020"
+
+    "Creating Folder @: '/scratch/lhw150030/mintsData/liveUpdate/UTDNodes/001e06318cee/2020/10/19'"
+
+    "Printing files for Node: 001e06318cee for 18-Oct-2020"
+
+    "Creating Folder @: '/scratch/lhw150030/mintsData/liveUpdate/UTDNodes/001e06318cee/2020/10/18'"
+
+    "Printing files for Node: 001e06318cee for 17-Oct-2020"
+
+    "Creating Folder @: '/scratch/lhw150030/mintsData/liveUpdate/UTDNodes/001e06318cee/2020/10/17'"
+
+    "Printing files for Node: 001e06318cee for 16-Oct-2020"
+
+    "Creating Folder @: '/scratch/lhw150030/mintsData/liveUpdate/UTDNodes/001e06318cee/2020/10/16'"
+
+    "Printing files for Node: 001e06318cee for 15-Oct-2020"
+
+    "Creating Folder @: '/scratch/lhw150030/mintsData/liveUpdate/UTDNodes/001e06318cee/2020/10/15'"
+
+    "Printing files for Node: 001e06318cee for 14-Oct-2020"
+
+    "Creating Folder @: '/scratch/lhw150030/mintsData/liveUpdate/UTDNodes/001e06318cee/2020/10/14'"
+
+    "Printing files for Node: 001e06318cee for 13-Oct-2020"
+
+    "Creating Folder @: '/scratch/lhw150030/mintsData/liveUpdate/UTDNodes/001e06318cee/2020/10/13'"
+
+    "Printing files for Node: 001e06318cee for 12-Oct-2020"
+
+    "Creating Folder @: '/scratch/lhw150030/mintsData/liveUpdate/UTDNodes/001e06318cee/2020/10/12'"
+
+    "Printing files for Node: 001e06318cee for 11-Oct-2020"
+
+    "Creating Folder @: '/scratch/lhw150030/mintsData/liveUpdate/UTDNodes/001e06318cee/2020/10/11'"
+
+    "Printing files for Node: 001e06318cee for 10-Oct-2020"
+
+    "Creating Folder @: '/scratch/lhw150030/mintsData/liveUpdate/UTDNodes/001e06318cee/2020/10/10'"
+
+    "Printing files for Node: 001e06318cee for 09-Oct-2020"
+
+    "Creating Folder @: '/scratch/lhw150030/mintsData/liveUpdate/UTDNodes/001e06318cee/2020/10/09'"
+
+    "Printing files for Node: 001e06318cee for 08-Oct-2020"
+
+    "Creating Folder @: '/scratch/lhw150030/mintsData/liveUpdate/UTDNodes/001e06318cee/2020/10/08'"
+
+    "Printing files for Node: 001e06318cee for 07-Oct-2020"
+
+    "Creating Folder @: '/scratch/lhw150030/mintsData/liveUpdate/UTDNodes/001e06318cee/2020/10/07'"
+
+    "Printing files for Node: 001e06318cee for 06-Oct-2020"
+
+    "Creating Folder @: '/scratch/lhw150030/mintsData/liveUpdate/UTDNodes/001e06318cee/2020/10/06'"
+
+    "Printing files for Node: 001e06318cee for 05-Oct-2020"
+
+    "Creating Folder @: '/scratch/lhw150030/mintsData/liveUpdate/UTDNodes/001e06318cee/2020/10/05'"
+
+    "Printing files for Node: 001e06318cee for 04-Oct-2020"
+
+    "Creating Folder @: '/scratch/lhw150030/mintsData/liveUpdate/UTDNodes/001e06318cee/2020/10/04'"
+
+[Warning: The following error was caught while executing 'onCleanup' class
+destructor:
+Error using matlab.graphics.internal.mlprintjob/setPaintDisabled
+Java exception occurred:
+java.lang.OutOfMemoryError: Java heap space
+	at java.lang.Class.getDeclaredMethods0(Native Method)
+	at java.lang.Class.privateGetDeclaredMethods(Class.java:2701)
+	at java.lang.Class.privateGetPublicMethods(Class.java:2902)
+	at java.lang.Class.privateGetPublicMethods(Class.java:2917)
+	at java.lang.Class.privateGetPublicMethods(Class.java:2917)
+	at java.lang.Class.privateGetPublicMethods(Class.java:2917)
+	at java.lang.Class.privateGetPublicMethods(Class.java:2917)
+	at java.lang.Class.privateGetPublicMethods(Class.java:2917)
+	at java.lang.Class.getMethods(Class.java:1615)
+	at
+        com.mathworks.jmi.OpaqueJavaInterface.doesMethodExist(OpaqueJavaInterface.java:74)
+
+Error in alternatePrintPath
+
+Error in alternatePrintPath
+
+Error in onCleanup/delete (line 80)
+            obj.task();
+
+Error in alternatePrintPath
+
+Error in print (line 83)
+pj = alternatePrintPath(pj);
+
+Error in saveas (line 181)
+        print( h, name, ['-d' dev{i}] )
+
+Error in contourPlotOPCN2 (line 81)
+            saveas(figure_1,char(Fig_name));
+
+Error in printCSVTTWithPlots (line 38)
+            contourPlotOPCN2(predictedTable,nodeID,{"UTC Time(hours)";
+            dateStr},...
+
+Error in liveRun2021Daily (line 201)
+    printCSVTTWithPlots(predictedTable,updateFolder,nodeID);] 
+[> In alternatePrintPath
+  In print (line 83)
+  In saveas (line 181)
+  In contourPlotOPCN2 (line 81)
+  In printCSVTTWithPlots (line 38)
+  In liveRun2021Daily (line 201)] 
+    "Printing files for Node: 001e06318cee for 03-Oct-2020"
+
+    "Creating Folder @: '/scratch/lhw150030/mintsData/liveUpdate/UTDNodes/001e06318cee/2020/10/03'"
+
+>> 

@@ -1,0 +1,134 @@
+Running calibration scripts for UTD Node: 1
+Running on host: compute-1-3-1
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2020 The MathWorks, Inc.
+              R2020a Update 1 (9.8.0.1359463) 64-bit (glnxa64)
+                               April 9, 2020
+
+ 
+To get started, type doc.
+For product information, visit www.mathworks.com.
+ 
+    "---------------------MINTS---------------------"
+
+
+
+
+
+    "Node Index               =  1"
+
+    "Node ID                  =  001e06305a12"
+
+    "Data Folder Located      @ :/scratch/lhw150030/mintsData"
+
+    "Raw Data Located         @ :/scratch/lhw150030/mintsData/raw"
+
+    "Raw DotMat Data Located  @ :/scratch/lhw150030/mintsData/rawMats"
+
+    "Update Data Located      @ :/scratch/lhw150030/mintsData/liveUpdate/UTDNodes"
+
+    "Loading Best Models"
+
+    "Creating Folder @: '/scratch/lhw150030/mintsData/liveUpdate/UTDNodes/001e06305a12'"
+
+    "Predicting pm1_palas"
+
+    "Predicting pm2_5_palas"
+
+    "Predicting pm4_palas"
+
+    "Predicting pm10_palas"
+
+    "Predicting pmTotal_palas"
+
+    "Predicting dCn_palas"
+
+    "Predicting temperatureAirmar"
+
+    "Predicting humidityAirmar"
+
+    "Predicting dewPointAirmar"
+
+    "Predicting pressureAirmar"
+
+    "Gaining Prediction"
+
+    "Printing complete Time Series for Node: 001e06305a12"
+
+    "Printing files for Node: 001e06305a12 for 12-Mar-2021"
+
+    "Printing files for Node: 001e06305a12 for 11-Mar-2021"
+
+    "Printing files for Node: 001e06305a12 for 10-Mar-2021"
+
+    "Printing files for Node: 001e06305a12 for 09-Mar-2021"
+
+    "Printing files for Node: 001e06305a12 for 08-Mar-2021"
+
+    "Printing files for Node: 001e06305a12 for 07-Mar-2021"
+
+    "Printing files for Node: 001e06305a12 for 06-Mar-2021"
+
+    "Printing files for Node: 001e06305a12 for 05-Mar-2021"
+
+    "Printing files for Node: 001e06305a12 for 04-Mar-2021"
+
+    "Printing files for Node: 001e06305a12 for 03-Mar-2021"
+
+    "Printing files for Node: 001e06305a12 for 02-Mar-2021"
+
+    "Printing files for Node: 001e06305a12 for 01-Mar-2021"
+
+    "Printing files for Node: 001e06305a12 for 28-Feb-2021"
+
+    "Printing files for Node: 001e06305a12 for 27-Feb-2021"
+
+    "Printing files for Node: 001e06305a12 for 26-Feb-2021"
+
+    "Printing files for Node: 001e06305a12 for 25-Feb-2021"
+
+    "Printing files for Node: 001e06305a12 for 24-Feb-2021"
+
+    "Printing files for Node: 001e06305a12 for 23-Feb-2021"
+
+    "Printing files for Node: 001e06305a12 for 22-Feb-2021"
+
+    "Printing files for Node: 001e06305a12 for 21-Feb-2021"
+
+    "Printing files for Node: 001e06305a12 for 20-Feb-2021"
+
+    "Printing files for Node: 001e06305a12 for 19-Feb-2021"
+
+    "Printing files for Node: 001e06305a12 for 18-Feb-2021"
+
+    "Printing files for Node: 001e06305a12 for 17-Feb-2021"
+
+    "Printing files for Node: 001e06305a12 for 16-Feb-2021"
+
+    "Printing files for Node: 001e06305a12 for 15-Feb-2021"
+
+    "Printing files for Node: 001e06305a12 for 14-Feb-2021"
+
+    "Printing files for Node: 001e06305a12 for 13-Feb-2021"
+
+    "Printing files for Node: 001e06305a12 for 12-Feb-2021"
+
+    "Printing files for Node: 001e06305a12 for 11-Feb-2021"
+
+    "Printing files for Node: 001e06305a12 for 10-Feb-2021"
+
+    "Creating Folder @: '/scratch/lhw150030/mintsData/liveUpdate/UTDNodes/001e06305a12/2021/02/10'"
+
+    "Printing files for Node: 001e06305a12 for 09-Feb-2021"
+
+    "Creating Folder @: '/scratch/lhw150030/mintsData/liveUpdate/UTDNodes/001e06305a12/2021/02/09'"
+
+    "Printing files for Node: 001e06305a12 for 08-Feb-2021"
+
+    "Creating Folder @: '/scratch/lhw150030/mintsData/liveUpdate/UTDNodes/001e06305a12/2021/02/08'"
+
+    "Printing files for Node: 001e06305a12 for 07-Feb-2021"
+
+    "Creating Folder @: '/scratch/lhw150030/mintsData/liveUpdate/UTDNodes/001e06305a12/2021/02/07'"
+

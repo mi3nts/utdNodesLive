@@ -1,0 +1,68 @@
+Running calibration scripts for UTD Node: 3
+Running on host: compute-1-3-3
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2020 The MathWorks, Inc.
+              R2020a Update 1 (9.8.0.1359463) 64-bit (glnxa64)
+                               April 9, 2020
+
+ 
+To get started, type doc.
+For product information, visit www.mathworks.com.
+ 
+    "---------------------MINTS---------------------"
+
+
+
+
+
+    "Node Index               =  3"
+
+    "Node ID                  =  001e06318cd1"
+
+    "Data Folder Located      @ :/scratch/lhw150030/mintsData"
+
+    "Raw Data Located         @ :/scratch/lhw150030/mintsData/raw"
+
+    "Raw DotMat Data Located  @ :/scratch/lhw150030/mintsData/rawMats"
+
+    "Update Data Located      @ :/scratch/lhw150030/mintsData/liveUpdate/UTDNodes"
+
+    "Loading Best Models"
+
+    "Creating Folder @: '/scratch/lhw150030/mintsData/liveUpdate/UTDNodes/001e06318cd1'"
+
+    "Predicting pm1_palas"
+
+    "Predicting pm2_5_palas"
+
+    "Predicting pm4_palas"
+
+    "Predicting pm10_palas"
+
+    "Predicting pmTotal_palas"
+
+    "Predicting dCn_palas"
+
+    "Predicting temperatureAirmar"
+
+    "Predicting humidityAirmar"
+
+    "Predicting dewPointAirmar"
+
+    "Predicting pressureAirmar"
+
+    "Gaining Prediction"
+
+    "Printing complete Time Series for Node: 001e06318cd1"
+
+    "Printing files for Node: 001e06318cd1 for 12-Mar-2021"
+
+    "Printing files for Node: 001e06318cd1 for 11-Mar-2021"
+
+    "Creating Folder @: '/scratch/lhw150030/mintsData/liveUpdate/UTDNodes/001e06318cd1/2021/03/11'"
+
+    "Printing files for Node: 001e06318cd1 for 10-Mar-2021"
+
+    "Creating Folder @: '/scratch/lhw150030/mintsData/liveUpdate/UTDNodes/001e06318cd1/2021/03/10'"
+
