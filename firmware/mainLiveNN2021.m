@@ -17,6 +17,9 @@ addpath("YAMLMatlab_0.4.3");
 while (true)
      for n = 1:15
 %         try
+	if(n ==4 )
+	    continue
+	end
             liveRun2021(string(n),...
                 'mintsDefinitions.yaml'...
                 );

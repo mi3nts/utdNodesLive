@@ -97,12 +97,18 @@ function [] = liveRun2021(nodeIndex,yamlFile)
        latestDataAll.humidity_mintsDataBME280 = latestDataAll.humidity_BME280 ;
     end   
 
+
     if nodeIDs{nodeIndex}.inputStack == 20
        latestDataAll.temperature_mintsDataBME280 = latestDataAll.temperature_BME280 ;
        latestDataAll.humidity_mintsDataBME280 = latestDataAll.humidity_BME280 ;
     end
 
     if nodeIDs{nodeIndex}.inputStack == 21
+       latestDataAll.temperature_mintsDataBME280 = latestDataAll.temperature_BME280 ;
+       latestDataAll.humidity_mintsDataBME280 = latestDataAll.humidity_BME280 ;
+    end
+
+    if nodeIDs{nodeIndex}.inputStack == 22
        latestDataAll.temperature_mintsDataBME280 = latestDataAll.temperature_BME280 ;
        latestDataAll.humidity_mintsDataBME280 = latestDataAll.humidity_BME280 ;
     end
@@ -154,7 +160,7 @@ function [] = liveRun2021(nodeIndex,yamlFile)
     display(newline)
     display("Loading Best Models")
        
-    [bestModels,bestModelsLabels] = readResultsNow(resultsFile,nodeID,mintsTargets,modelsFolder);
+    [bestModels,bestModelsLabels] = readResultsNow2(resultsFile,nodeID,mintsTargets,modelsFolder);
  %   bestModelsLabels;
 
     if(sum(cellfun(@isempty,bestModels))>0 || length(bestModels)<10)
